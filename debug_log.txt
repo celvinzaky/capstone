@@ -1,0 +1,1308 @@
+Script started
+Script started
+Script started
+Script started
+Script started
+Script started
+Script started
+Script started
+Script started
+Script started
+Script started
+Script started
+Script started
+Upload dir: C:\xampp\htdocs\employee_monitoring/uploads/
+Folder sudah ada
+Filepath tujuan: C:\xampp\htdocs\employee_monitoring/uploads/capture_2025-08-19_13-48-30.jpg
+Coba ambil gambar dari: http://10.39.183.57:81/shot.jpg
+Script started
+Upload dir: C:\xampp\htdocs\employee_monitoring/uploads/
+Folder sudah ada
+Filepath tujuan: C:\xampp\htdocs\employee_monitoring/uploads/capture_2025-08-19_13-48-53.jpg
+Coba ambil gambar dari: http://10.39.183.57:81/shot.jpg
+❌ Gagal ambil gambar dari kamera
+❌ Gagal ambil gambar dari kamera
+Script started
+Upload dir: C:\xampp\htdocs\employee_monitoring/uploads/
+Folder sudah ada
+Filepath tujuan: C:\xampp\htdocs\employee_monitoring/uploads/capture_2025-08-19_13-49-59.jpg
+Coba ambil gambar dari: http://10.39.183.57:81/shot.jpg
+Script started
+Upload dir: C:\xampp\htdocs\employee_monitoring/uploads/
+Folder sudah ada
+Filepath tujuan: C:\xampp\htdocs\employee_monitoring/uploads/capture_2025-08-19_13-50-38.jpg
+Coba ambil gambar dari: http://10.39.183.57:81/shot.jpg
+❌ Gagal ambil gambar dari kamera
+❌ Gagal ambil gambar dari kamera
+Script started
+Upload dir: C:\xampp\htdocs\employee_monitoring/uploads/
+Folder sudah ada
+Filepath tujuan: C:\xampp\htdocs\employee_monitoring/uploads/capture_2025-08-19_13-51-53.jpg
+Coba ambil gambar dari: http://10.39.183.57:81/shot.jpg
+❌ Gagal ambil gambar dari kamera
+Script started
+Upload dir: C:\xampp\htdocs\employee_monitoring/uploads/
+Folder sudah ada
+Filepath tujuan: C:\xampp\htdocs\employee_monitoring/uploads/capture_2025-08-19_14-08-22.jpg
+Coba ambil gambar dari: http://10.39.183.57:81/shot.jpg
+Script started
+Upload dir: C:\xampp\htdocs\employee_monitoring/uploads/
+Folder sudah ada
+Filepath tujuan: C:\xampp\htdocs\employee_monitoring/uploads/capture_2025-08-19_14-08-43.jpg
+Coba ambil gambar dari: http://10.39.183.57:81/shot.jpg
+❌ Gagal ambil gambar dari kamera
+❌ Gagal ambil gambar dari kamera
+Script started
+Upload dir: C:\xampp\htdocs\employee_monitoring/uploads/
+Folder sudah ada
+Filepath tujuan: C:\xampp\htdocs\employee_monitoring/uploads/capture_2025-08-19_14-13-17.jpg
+Coba ambil gambar dari: http://10.39.183.57:81/shot.jpg
+❌ Gagal ambil gambar dari kamera
+Script started
+Upload dir: C:\xampp\htdocs\employee_monitoring/uploads/
+Folder sudah ada
+Filepath tujuan: C:\xampp\htdocs\employee_monitoring/uploads/capture_2025-08-19_14-56-08.jpg
+Coba ambil gambar dari: http://10.39.183.57:81/shot.jpg
+❌ Gagal ambil gambar dari kamera
+Script started
+Upload dir: C:\xampp\htdocs\employee_monitoring/uploads/
+Folder sudah ada
+Filepath tujuan: C:\xampp\htdocs\employee_monitoring/uploads/capture_2025-08-19_15-48-16.jpg
+Coba ambil gambar dari: http://10.39.183.57:81/shot.jpg
+Script started
+Upload dir: C:\xampp\htdocs\employee_monitoring/uploads/
+Folder sudah ada
+Filepath tujuan: C:\xampp\htdocs\employee_monitoring/uploads/capture_2025-08-19_15-48-48.jpg
+Coba ambil gambar dari: http://10.39.183.57:81/shot.jpg
+❌ Gagal ambil gambar dari kamera
+❌ Gagal ambil gambar dari kamera
+Script started
+Upload dir: C:\xampp\htdocs\employee_monitoring/uploads/
+Folder sudah ada
+Filepath tujuan: C:\xampp\htdocs\employee_monitoring/uploads/capture_2025-08-19_16-32-14.jpg
+Coba ambil gambar dari: http://10.39.183.57:81/shot.jpg
+❌ Gagal ambil gambar dari kamera
+Script started
+Upload dir: C:\xampp\htdocs\employee_monitoring/uploads/
+Folder sudah ada
+Filepath tujuan: C:\xampp\htdocs\employee_monitoring/uploads/capture_2025-08-19_16-33-23.jpg
+Coba ambil gambar dari: http://10.39.183.57:81/shot.jpg
+❌ Gagal ambil gambar dari kamera
+Script started
+Upload dir: C:\xampp\htdocs\employee_monitoring/uploads/
+Folder sudah ada
+Filepath tujuan: C:\xampp\htdocs\employee_monitoring/uploads/capture_2025-08-19_16-34-32.jpg
+Coba ambil gambar dari: http://10.39.183.57:81/shot.jpg
+Script started
+Upload dir: C:\xampp\htdocs\employee_monitoring/uploads/
+Folder sudah ada
+Filepath tujuan: C:\xampp\htdocs\employee_monitoring/uploads/capture_2025-08-19_16-34-52.jpg
+Coba ambil gambar dari: http://10.39.183.57:81/shot.jpg
+❌ Gagal ambil gambar dari kamera
+Script started
+Upload dir: C:\xampp\htdocs\employee_monitoring/uploads/
+Folder sudah ada
+Filepath tujuan: C:\xampp\htdocs\employee_monitoring/uploads/capture_2025-08-19_16-34-53.jpg
+Coba ambil gambar dari: http://10.39.183.57:81/shot.jpg
+Script started
+Upload dir: C:\xampp\htdocs\employee_monitoring/uploads/
+Folder sudah ada
+Filepath tujuan: C:\xampp\htdocs\employee_monitoring/uploads/capture_2025-08-19_16-34-54.jpg
+Coba ambil gambar dari: http://10.39.183.57:81/shot.jpg
+❌ Gagal ambil gambar dari kamera
+❌ Gagal ambil gambar dari kamera
+❌ Gagal ambil gambar dari kamera
+Script started
+Upload dir: C:\xampp\htdocs\employee_monitoring/uploads/
+Folder sudah ada
+Filepath tujuan: C:\xampp\htdocs\employee_monitoring/uploads/capture_2025-08-19_19-05-01.jpg
+Coba ambil gambar dari: http://10.39.183.57:81/shot.jpg
+Script started
+Upload dir: C:\xampp\htdocs\employee_monitoring/uploads/
+Folder sudah ada
+Filepath tujuan: C:\xampp\htdocs\employee_monitoring/uploads/capture_2025-08-19_19-05-29.jpg
+Coba ambil gambar dari: http://10.39.183.57:81/shot.jpg
+❌ Gagal ambil gambar dari kamera
+❌ Gagal ambil gambar dari kamera
+Script started
+Upload dir: C:\xampp\htdocs\employee_monitoring/uploads/
+Folder sudah ada
+Filepath tujuan: C:\xampp\htdocs\employee_monitoring/uploads/capture_2025-08-19_19-07-09.jpg
+Coba ambil gambar dari: http://10.39.183.57:81/shot.jpg
+Script started
+Upload dir: C:\xampp\htdocs\employee_monitoring/uploads/
+Folder sudah ada
+Filepath tujuan: C:\xampp\htdocs\employee_monitoring/uploads/capture_2025-08-19_19-07-30.jpg
+Coba ambil gambar dari: http://10.39.183.57:81/shot.jpg
+Script started
+Upload dir: C:\xampp\htdocs\employee_monitoring/uploads/
+Folder sudah ada
+Filepath tujuan: C:\xampp\htdocs\employee_monitoring/uploads/capture_2025-08-19_19-07-35.jpg
+Coba ambil gambar dari: http://10.39.183.57:81/shot.jpg
+❌ Gagal ambil gambar dari kamera
+❌ Gagal ambil gambar dari kamera
+❌ Gagal ambil gambar dari kamera
+Script started
+Upload dir: C:\xampp\htdocs\employee_monitoring/uploads/
+Folder sudah ada
+Filepath tujuan: C:\xampp\htdocs\employee_monitoring/uploads/capture_2025-08-19_19-13-44.jpg
+Coba ambil gambar dari: http://10.39.183.57:81/capture
+Coba ambil gambar dari: http://10.39.183.57:81/shot.jpg
+Coba ambil gambar dari: http://10.39.183.57:81/photo.jpg
+Coba ambil gambar dari: http://10.39.183.57:81/jpg
+❌ Gagal ambil gambar dari semua URL. HTTP:404 ERR:
+Script started
+Upload dir: C:\xampp\htdocs\employee_monitoring/uploads/
+Folder sudah ada
+Filepath tujuan: C:\xampp\htdocs\employee_monitoring/uploads/capture_2025-08-19_19-14-03.jpg
+Coba ambil gambar dari: http://10.39.183.57:81/capture
+Coba ambil gambar dari: http://10.39.183.57:81/shot.jpg
+Coba ambil gambar dari: http://10.39.183.57:81/photo.jpg
+Coba ambil gambar dari: http://10.39.183.57:81/jpg
+❌ Gagal ambil gambar dari semua URL. HTTP:0 ERR:Operation timed out after 5005 milliseconds with 0 bytes received
+Script started
+Upload dir: C:\xampp\htdocs\employee_monitoring/uploads/
+Folder sudah ada
+Filepath tujuan: C:\xampp\htdocs\employee_monitoring/uploads/capture_2025-08-19_19-14-38.jpg
+Coba ambil gambar dari: http://10.39.183.57:81/capture
+Coba ambil gambar dari: http://10.39.183.57:81/shot.jpg
+Coba ambil gambar dari: http://10.39.183.57:81/photo.jpg
+Coba ambil gambar dari: http://10.39.183.57:81/jpg
+❌ Gagal ambil gambar dari semua URL. HTTP:0 ERR:Connection timeout after 3014 ms
+Script started
+Upload dir: C:\xampp\htdocs\employee_monitoring/uploads/
+Folder sudah ada
+Filepath tujuan: C:\xampp\htdocs\employee_monitoring/uploads/capture_2025-08-19_19-14-52.jpg
+Coba ambil gambar dari: http://10.39.183.57:81/capture
+Coba ambil gambar dari: http://10.39.183.57:81/shot.jpg
+Coba ambil gambar dari: http://10.39.183.57:81/photo.jpg
+Coba ambil gambar dari: http://10.39.183.57:81/jpg
+❌ Gagal ambil gambar dari semua URL. HTTP:0 ERR:Connection timeout after 3013 ms
+Script started
+Upload dir: C:\xampp\htdocs\employee_monitoring/uploads/
+Folder sudah ada
+Filepath tujuan: C:\xampp\htdocs\employee_monitoring/uploads/capture_2025-08-19_19-18-38.jpg
+Coba ambil gambar dari: http://10.39.183.57:81/capture
+Coba ambil gambar dari: http://10.39.183.57:81/shot.jpg
+Coba ambil gambar dari: http://10.39.183.57:81/photo.jpg
+Coba ambil gambar dari: http://10.39.183.57:81/jpg
+❌ Gagal ambil gambar dari semua URL. HTTP:0 ERR:Operation timed out after 5007 milliseconds with 0 bytes received
+Script started
+Upload dir: C:\xampp\htdocs\employee_monitoring/uploads/
+Folder sudah ada
+Filepath tujuan: C:\xampp\htdocs\employee_monitoring/uploads/capture_2025-08-19_19-22-00.jpg
+Mulai parallel fetch...
+Script started
+Upload dir: C:\xampp\htdocs\employee_monitoring/uploads/
+Folder sudah ada
+Filepath tujuan: C:\xampp\htdocs\employee_monitoring/uploads/capture_2025-08-19_19-23-19.jpg
+Mulai parallel fetch...
+✅ Capture sukses dari http://10.39.183.57/capture?_cb=1755624199: capture_2025-08-19_19-23-19.jpg
+Script started
+Upload dir: C:\xampp\htdocs\employee_monitoring/uploads/
+Folder sudah ada
+Filepath tujuan: C:\xampp\htdocs\employee_monitoring/uploads/capture_2025-08-19_19-26-53.jpg
+Mulai parallel fetch...
+✅ Capture sukses dari http://10.39.183.57/capture?_cb=1755624413: capture_2025-08-19_19-26-53.jpg
+Script started
+Upload dir: C:\xampp\htdocs\employee_monitoring/uploads/
+Folder sudah ada
+Filepath tujuan: C:\xampp\htdocs\employee_monitoring/uploads/capture_2025-08-19_19-30-12.jpg
+Mulai parallel fetch...
+✅ Capture sukses dari http://10.39.183.57/capture?_cb=1755624612: capture_2025-08-19_19-30-12.jpg
+Script started
+Upload dir: C:\xampp\htdocs\employee_monitoring\uploads\ (real: C:\xampp\htdocs\employee_monitoring\uploads) CWD: C:\xampp\htdocs\employee_monitoring
+Folder sudah ada
+Filepath tujuan: C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-19_19-34-30.jpg
+Mulai parallel fetch...
+✅ Tersimpan: bytes=4043 exists=yes size=4043 path=C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-19_19-34-30.jpg
+Isi folder uploads (max 10): capture_2025-08-19_19-34-30.jpg, latest.jpg (total=2)
+✅ Capture sukses dari http://10.39.183.57/capture?_cb=1755624870: capture_2025-08-19_19-34-30.jpg
+Script started
+Upload dir: C:\xampp\htdocs\employee_monitoring\uploads\ (real: C:\xampp\htdocs\employee_monitoring\uploads) CWD: C:\xampp\htdocs\employee_monitoring
+Folder sudah ada
+Filepath tujuan: C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-19_19-36-06.jpg
+Mulai parallel fetch...
+✅ Tersimpan: bytes=5106 exists=yes size=5106 path=C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-19_19-36-06.jpg
+Isi folder uploads (max 10): capture_2025-08-19_19-36-06.jpg, latest.jpg (total=2)
+✅ Capture sukses dari http://10.39.183.57/capture?_cb=1755624966: capture_2025-08-19_19-36-06.jpg
+Script started
+Upload dir: C:\xampp\htdocs\employee_monitoring\uploads\ (real: C:\xampp\htdocs\employee_monitoring\uploads) CWD: C:\xampp\htdocs\employee_monitoring
+Folder sudah ada
+Filepath tujuan: C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-19_19-38-49.jpg
+Mulai parallel fetch...
+✅ Tersimpan: bytes=4019 exists=yes size=4019 path=C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-19_19-38-49.jpg
+Isi folder uploads (max 10): capture_2025-08-19_19-38-49.jpg, latest.jpg (total=2)
+✅ Capture sukses dari http://10.39.183.57/capture?_cb=1755625129: capture_2025-08-19_19-38-49.jpg
+Script started
+Upload dir: C:\xampp\htdocs\employee_monitoring\uploads\ (real: C:\xampp\htdocs\employee_monitoring\uploads) CWD: C:\xampp\htdocs\employee_monitoring
+Folder sudah ada
+Filepath tujuan: C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-19_19-38-51.jpg
+Mulai parallel fetch...
+✅ Tersimpan: bytes=4895 exists=yes size=4895 path=C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-19_19-38-51.jpg
+Isi folder uploads (max 10): capture_2025-08-19_19-38-51.jpg, latest.jpg (total=2)
+✅ Capture sukses dari http://10.39.183.57/capture?_cb=1755625131: capture_2025-08-19_19-38-51.jpg
+Script started
+Upload dir: C:\xampp\htdocs\employee_monitoring\uploads\ (real: C:\xampp\htdocs\employee_monitoring\uploads) CWD: C:\xampp\htdocs\employee_monitoring
+Folder sudah ada
+Filepath tujuan: C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-19_19-40-40.jpg
+Mulai parallel fetch...
+✅ Tersimpan: bytes=4030 exists=yes size=4030 path=C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-19_19-40-40.jpg
+Isi folder uploads (max 10): capture_2025-08-19_19-40-40.jpg, latest.jpg (total=2)
+DB insert ok id=81 file=capture_2025-08-19_19-40-40.jpg
+✅ Capture sukses dari http://10.39.183.57/capture?_cb=1755625240: capture_2025-08-19_19-40-40.jpg
+Script started
+Upload dir: C:\xampp\htdocs\employee_monitoring\uploads\ (real: C:\xampp\htdocs\employee_monitoring\uploads) CWD: C:\xampp\htdocs\employee_monitoring
+Folder sudah ada
+Filepath tujuan: C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-19_19-41-08.jpg
+Mulai parallel fetch...
+✅ Tersimpan: bytes=4051 exists=yes size=4051 path=C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-19_19-41-08.jpg
+Isi folder uploads (max 10): capture_2025-08-19_19-41-08.jpg, latest.jpg (total=2)
+DB insert ok id=82 file=capture_2025-08-19_19-41-08.jpg
+✅ Capture sukses dari http://10.39.183.57/capture?_cb=1755625268: capture_2025-08-19_19-41-08.jpg
+Script started
+Upload dir: C:\xampp\htdocs\employee_monitoring\uploads\ (real: C:\xampp\htdocs\employee_monitoring\uploads) CWD: C:\xampp\htdocs\employee_monitoring
+Folder sudah ada
+Filepath tujuan: C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-19_19-41-16.jpg
+Mulai parallel fetch...
+✅ Tersimpan: bytes=5058 exists=yes size=5058 path=C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-19_19-41-16.jpg
+Isi folder uploads (max 10): capture_2025-08-19_19-41-16.jpg, latest.jpg (total=2)
+DB insert ok id=83 file=capture_2025-08-19_19-41-16.jpg
+✅ Capture sukses dari http://10.39.183.57/capture?_cb=1755625276: capture_2025-08-19_19-41-16.jpg
+Script started
+Upload dir: C:\xampp\htdocs\employee_monitoring\uploads\ (real: C:\xampp\htdocs\employee_monitoring\uploads) CWD: C:\xampp\htdocs\employee_monitoring
+Folder sudah ada
+Filepath tujuan: C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-19_19-43-23.jpg
+Mulai parallel fetch...
+✅ Tersimpan: bytes=5119 exists=yes size=5119 path=C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-19_19-43-23.jpg
+Isi folder uploads (max 10): capture_2025-08-19_19-43-23.jpg, latest.jpg (total=2)
+DB insert ok id=84 file=capture_2025-08-19_19-43-23.jpg
+✅ Capture sukses dari http://10.39.183.57/capture?_cb=1755625403: capture_2025-08-19_19-43-23.jpg
+Script started
+Upload dir: C:\xampp\htdocs\employee_monitoring\uploads\ (real: C:\xampp\htdocs\employee_monitoring\uploads) CWD: C:\xampp\htdocs\employee_monitoring
+Folder sudah ada
+Filepath tujuan: C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-19_19-43-39.jpg
+Mulai parallel fetch...
+✅ Tersimpan: bytes=4036 exists=yes size=4036 path=C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-19_19-43-39.jpg
+Isi folder uploads (max 10): capture_2025-08-19_19-43-39.jpg, latest.jpg (total=2)
+DB insert ok id=85 file=capture_2025-08-19_19-43-39.jpg
+✅ Capture sukses dari http://10.39.183.57/capture?_cb=1755625419: capture_2025-08-19_19-43-39.jpg
+Script started
+Upload dir: C:\xampp\htdocs\employee_monitoring\uploads\ (real: C:\xampp\htdocs\employee_monitoring\uploads) CWD: C:\xampp\htdocs\employee_monitoring
+Folder sudah ada
+Filepath tujuan: C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-19_19-46-52.jpg
+Mulai parallel fetch...
+✅ Tersimpan: bytes=5119 exists=yes size=5119 path=C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-19_19-46-52.jpg
+Isi folder uploads (max 10): capture_2025-08-19_19-46-52.jpg, latest.jpg (total=2)
+DB insert ok id=86 file=capture_2025-08-19_19-46-52.jpg
+✅ Capture sukses dari http://10.39.183.57/capture?_cb=1755625612: capture_2025-08-19_19-46-52.jpg
+Script started
+Upload dir: C:\xampp\htdocs\employee_monitoring\uploads\ (real: C:\xampp\htdocs\employee_monitoring\uploads) CWD: C:\xampp\htdocs\employee_monitoring
+Folder sudah ada
+Filepath tujuan: C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-19_19-49-29.jpg
+Mulai parallel fetch...
+✅ Tersimpan: bytes=5035 exists=yes size=5035 path=C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-19_19-49-29.jpg
+Isi folder uploads (max 10): capture_2025-08-19_19-49-29.jpg, latest.jpg (total=2)
+DB insert ok id=87 file=capture_2025-08-19_19-49-29.jpg
+✅ Capture sukses dari http://10.39.183.57/capture?_cb=1755625769: capture_2025-08-19_19-49-29.jpg
+Script started
+Upload dir: C:\xampp\htdocs\employee_monitoring\uploads\ (real: C:\xampp\htdocs\employee_monitoring\uploads) CWD: C:\xampp\htdocs\employee_monitoring
+Folder sudah ada
+Filepath tujuan: C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-19_19-51-37.jpg
+Mulai parallel fetch...
+✅ Tersimpan: bytes=5035 exists=yes size=5035 path=C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-19_19-51-37.jpg
+Isi folder uploads (max 10): capture_2025-08-19_19-51-37.jpg, latest.jpg (total=2)
+DB insert ok id=88 file=capture_2025-08-19_19-51-37.jpg
+✅ Capture sukses dari http://10.39.183.57/capture?_cb=1755625897: capture_2025-08-19_19-51-37.jpg
+Script started
+Upload dir: C:\xampp\htdocs\employee_monitoring\uploads\ (real: C:\xampp\htdocs\employee_monitoring\uploads) CWD: C:\xampp\htdocs\employee_monitoring
+Folder sudah ada
+Filepath tujuan: C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-19_19-54-12.jpg
+Mulai parallel fetch...
+✅ Tersimpan: bytes=5035 exists=yes size=5035 path=C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-19_19-54-12.jpg
+Isi folder uploads (max 10): capture_2025-08-19_19-54-12.jpg, latest.jpg (total=2)
+DB insert ok id=89 file=capture_2025-08-19_19-54-12.jpg
+✅ Capture sukses dari http://10.39.183.57/capture?_cb=1755626052: capture_2025-08-19_19-54-12.jpg
+Script started
+Upload dir: C:\xampp\htdocs\employee_monitoring\uploads\ (real: C:\xampp\htdocs\employee_monitoring\uploads) CWD: C:\xampp\htdocs\employee_monitoring
+Folder sudah ada
+Filepath tujuan: C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-19_19-54-31.jpg
+Mulai parallel fetch...
+✅ Tersimpan: bytes=4952 exists=yes size=4952 path=C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-19_19-54-31.jpg
+Isi folder uploads (max 10): capture_2025-08-19_19-54-31.jpg, latest.jpg (total=2)
+DB insert ok id=90 file=capture_2025-08-19_19-54-31.jpg
+✅ Capture sukses dari http://10.39.183.57/capture?_cb=1755626071: capture_2025-08-19_19-54-31.jpg
+Script started
+Upload dir: C:\xampp\htdocs\employee_monitoring\uploads\ (real: C:\xampp\htdocs\employee_monitoring\uploads) CWD: C:\xampp\htdocs\employee_monitoring
+Folder sudah ada
+Filepath tujuan: C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-19_20-06-44.jpg
+Mulai parallel fetch...
+✅ Tersimpan: bytes=5062 exists=yes size=5062 path=C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-19_20-06-44.jpg
+Isi folder uploads (max 10): capture_2025-08-19_20-06-44.jpg, latest.jpg (total=2)
+DB insert ok id=91 file=capture_2025-08-19_20-06-44.jpg
+✅ Capture sukses dari http://10.39.183.57/capture?_cb=1755626804: capture_2025-08-19_20-06-44.jpg
+Script started
+Upload dir: C:\xampp\htdocs\employee_monitoring\uploads\ (real: C:\xampp\htdocs\employee_monitoring\uploads) CWD: C:\xampp\htdocs\employee_monitoring
+Folder sudah ada
+Filepath tujuan: C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-19_20-11-49.jpg
+Mulai parallel fetch...
+✅ Tersimpan: bytes=5062 exists=yes size=5062 path=C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-19_20-11-49.jpg
+Isi folder uploads (max 10): capture_2025-08-19_20-11-49.jpg, latest.jpg (total=2)
+DB insert ok id=92 file=capture_2025-08-19_20-11-49.jpg
+✅ Capture sukses dari http://10.39.183.57/capture?_cb=1755627109: capture_2025-08-19_20-11-49.jpg
+Script started
+Upload dir: C:\xampp\htdocs\employee_monitoring\uploads\ (real: C:\xampp\htdocs\employee_monitoring\uploads) CWD: C:\xampp\htdocs\employee_monitoring
+Folder sudah ada
+Filepath tujuan: C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-19_20-18-56.jpg
+Mulai parallel fetch...
+✅ Tersimpan: bytes=6080 exists=yes size=6080 path=C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-19_20-18-56.jpg
+Isi folder uploads (max 10): capture_2025-08-19_20-18-56.jpg, latest.jpg (total=2)
+DB insert ok id=93 file=capture_2025-08-19_20-18-56.jpg
+✅ Capture sukses dari http://10.39.183.57/capture?_cb=1755627536: capture_2025-08-19_20-18-56.jpg
+Script started
+Upload dir: C:\xampp\htdocs\employee_monitoring\uploads\ (real: C:\xampp\htdocs\employee_monitoring\uploads) CWD: C:\xampp\htdocs\employee_monitoring
+Folder sudah ada
+Filepath tujuan: C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-19_20-24-15.jpg
+Mulai parallel fetch...
+✅ Tersimpan: bytes=5038 exists=yes size=5038 path=C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-19_20-24-15.jpg
+Isi folder uploads (max 10): capture_2025-08-19_20-24-15.jpg, latest.jpg (total=2)
+DB insert ok id=94 file=capture_2025-08-19_20-24-15.jpg
+✅ Capture sukses dari http://10.39.183.57/capture?_cb=1755627855: capture_2025-08-19_20-24-15.jpg
+Script started
+Upload dir: C:\xampp\htdocs\employee_monitoring\uploads\ (real: C:\xampp\htdocs\employee_monitoring\uploads) CWD: C:\xampp\htdocs\employee_monitoring
+Folder sudah ada
+Filepath tujuan: C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-19_20-39-35.jpg
+Mulai parallel fetch...
+✅ Tersimpan: bytes=6103 exists=yes size=6103 path=C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-19_20-39-35.jpg
+Isi folder uploads (max 10): capture_2025-08-19_20-39-35.jpg, latest.jpg (total=2)
+DB insert ok id=95 file=capture_2025-08-19_20-39-35.jpg
+✅ Capture sukses dari http://10.39.183.57/capture?_cb=1755628775: capture_2025-08-19_20-39-35.jpg
+Script started
+Upload dir: C:\xampp\htdocs\employee_monitoring\uploads\ (real: C:\xampp\htdocs\employee_monitoring\uploads) CWD: C:\xampp\htdocs\employee_monitoring
+Folder sudah ada
+Filepath tujuan: C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-19_20-55-44.jpg
+Mulai parallel fetch...
+✅ Tersimpan: bytes=5959 exists=yes size=5959 path=C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-19_20-55-44.jpg
+Isi folder uploads (max 10): capture_2025-08-19_20-55-44.jpg, latest.jpg (total=2)
+DB insert ok id=96 file=capture_2025-08-19_20-55-44.jpg
+✅ Capture sukses dari http://10.39.183.57/capture?_cb=1755629744: capture_2025-08-19_20-55-44.jpg
+Script started
+Upload dir: C:\xampp\htdocs\employee_monitoring\uploads\ (real: C:\xampp\htdocs\employee_monitoring\uploads) CWD: C:\xampp\htdocs\employee_monitoring
+Folder sudah ada
+Filepath tujuan: C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-19_21-30-04.jpg
+Mulai parallel fetch...
+✅ Tersimpan: bytes=5875 exists=yes size=5875 path=C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-19_21-30-04.jpg
+Isi folder uploads (max 10): capture_2025-08-19_21-30-04.jpg, latest.jpg (total=2)
+DB insert ok id=340 file=capture_2025-08-19_21-30-04.jpg
+✅ Capture sukses dari http://10.39.183.57/capture?_cb=1755631804: capture_2025-08-19_21-30-04.jpg
+Script started
+Upload dir: C:\xampp\htdocs\employee_monitoring\uploads\ (real: C:\xampp\htdocs\employee_monitoring\uploads) CWD: C:\xampp\htdocs\employee_monitoring
+Folder sudah ada
+Filepath tujuan: C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-19_23-20-49.jpg
+Mulai parallel fetch...
+✅ Tersimpan: bytes=5967 exists=yes size=5967 path=C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-19_23-20-49.jpg
+Isi folder uploads (max 10): capture_2025-08-19_23-20-49.jpg, latest.jpg (total=2)
+DB insert ok id=379 file=capture_2025-08-19_23-20-49.jpg
+✅ Capture sukses dari http://10.39.183.57/capture?_cb=1755638449: capture_2025-08-19_23-20-49.jpg
+Script started
+Upload dir: C:\xampp\htdocs\employee_monitoring\uploads\ (real: C:\xampp\htdocs\employee_monitoring\uploads) CWD: C:\xampp\htdocs\employee_monitoring
+Folder sudah ada
+Filepath tujuan: C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-19_23-33-41.jpg
+Mulai parallel fetch...
+✅ Tersimpan: bytes=7130 exists=yes size=7130 path=C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-19_23-33-41.jpg
+Isi folder uploads (max 10): capture_2025-08-19_23-33-41.jpg, latest.jpg (total=2)
+DB insert ok id=380 file=capture_2025-08-19_23-33-41.jpg
+✅ Capture sukses dari http://10.39.183.57/capture?_cb=1755639221: capture_2025-08-19_23-33-41.jpg
+Script started
+Upload dir: C:\xampp\htdocs\employee_monitoring\uploads\ (real: C:\xampp\htdocs\employee_monitoring\uploads) CWD: C:\xampp\htdocs\employee_monitoring
+Folder sudah ada
+Filepath tujuan: C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-19_23-44-10.jpg
+Mulai parallel fetch...
+✅ Tersimpan: bytes=7028 exists=yes size=7028 path=C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-19_23-44-10.jpg
+Isi folder uploads (max 10): capture_2025-08-19_23-44-10.jpg, latest.jpg (total=2)
+DB insert ok id=381 file=capture_2025-08-19_23-44-10.jpg
+✅ Capture sukses dari http://10.39.183.57/capture?_cb=1755639850: capture_2025-08-19_23-44-10.jpg
+Script started
+Upload dir: C:\xampp\htdocs\employee_monitoring\uploads\ (real: C:\xampp\htdocs\employee_monitoring\uploads) CWD: C:\xampp\htdocs\employee_monitoring
+Folder sudah ada
+Filepath tujuan: C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_00-02-30.jpg
+Mulai parallel fetch...
+✅ Tersimpan: bytes=6086 exists=yes size=6086 path=C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_00-02-30.jpg
+Isi folder uploads (max 10): capture_2025-08-20_00-02-30.jpg, latest.jpg (total=2)
+DB insert ok id=382 file=capture_2025-08-20_00-02-30.jpg
+✅ Capture sukses dari http://10.39.183.57/capture?_cb=1755640950: capture_2025-08-20_00-02-30.jpg
+Script started
+Upload dir: C:\xampp\htdocs\employee_monitoring\uploads\ (real: C:\xampp\htdocs\employee_monitoring\uploads) CWD: C:\xampp\htdocs\employee_monitoring
+Folder sudah ada
+Filepath tujuan: C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_00-27-12.jpg
+Mulai parallel fetch...
+❌ Gagal ambil gambar dari semua URL. HTTP:0 ERR:timeout
+Script started
+Upload dir: C:\xampp\htdocs\employee_monitoring\uploads\ (real: C:\xampp\htdocs\employee_monitoring\uploads) CWD: C:\xampp\htdocs\employee_monitoring
+Folder sudah ada
+Filepath tujuan: C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_00-28-11.jpg
+Mulai parallel fetch...
+✅ Tersimpan: bytes=6067 exists=yes size=6067 path=C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_00-28-11.jpg
+Isi folder uploads (max 10): capture_2025-08-20_00-28-11.jpg, latest.jpg (total=2)
+DB insert ok id=383 file=capture_2025-08-20_00-28-11.jpg
+✅ Capture sukses dari http://10.39.183.57/capture?_cb=1755642491: capture_2025-08-20_00-28-11.jpg
+Script started
+Upload dir: C:\xampp\htdocs\employee_monitoring\uploads\ (real: C:\xampp\htdocs\employee_monitoring\uploads) CWD: C:\xampp\htdocs\employee_monitoring
+Folder sudah ada
+Filepath tujuan: C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_00-52-37.jpg
+Mulai parallel fetch...
+✅ Tersimpan: bytes=6067 exists=yes size=6067 path=C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_00-52-37.jpg
+Isi folder uploads (max 10): capture_2025-08-20_00-52-37.jpg, latest.jpg (total=2)
+DB insert ok id=384 file=capture_2025-08-20_00-52-37.jpg
+✅ Capture sukses dari http://10.39.183.57/capture?_cb=1755643957: capture_2025-08-20_00-52-37.jpg
+Script started
+Upload dir: C:\xampp\htdocs\employee_monitoring\uploads\ (real: C:\xampp\htdocs\employee_monitoring\uploads) CWD: C:\xampp\htdocs\employee_monitoring
+Folder sudah ada
+Filepath tujuan: C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_00-54-44.jpg
+Mulai parallel fetch...
+❌ Gagal ambil gambar dari semua URL. HTTP:0 ERR:timeout
+Script started
+Upload dir: C:\xampp\htdocs\employee_monitoring\uploads\ (real: C:\xampp\htdocs\employee_monitoring\uploads) CWD: C:\xampp\htdocs\employee_monitoring
+Folder sudah ada
+Filepath tujuan: C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_00-56-44.jpg
+Mulai parallel fetch...
+✅ Tersimpan: bytes=6133 exists=yes size=6133 path=C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_00-56-44.jpg
+Isi folder uploads (max 10): capture_2025-08-20_00-56-44.jpg, latest.jpg (total=2)
+DB insert ok id=385 file=capture_2025-08-20_00-56-44.jpg
+✅ Capture sukses dari http://10.39.183.57/capture?_cb=1755644204: capture_2025-08-20_00-56-44.jpg
+Script started
+Upload dir: C:\xampp\htdocs\employee_monitoring\uploads\ (real: C:\xampp\htdocs\employee_monitoring\uploads) CWD: C:\xampp\htdocs\employee_monitoring
+Folder sudah ada
+Filepath tujuan: C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_00-58-44.jpg
+Mulai parallel fetch...
+❌ Gagal ambil gambar dari semua URL. HTTP:0 ERR:timeout
+Script started
+Upload dir: C:\xampp\htdocs\employee_monitoring\uploads\ (real: C:\xampp\htdocs\employee_monitoring\uploads) CWD: C:\xampp\htdocs\employee_monitoring
+Folder sudah ada
+Filepath tujuan: C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_01-00-44.jpg
+Mulai parallel fetch...
+✅ Tersimpan: bytes=6069 exists=yes size=6069 path=C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_01-00-44.jpg
+Isi folder uploads (max 10): capture_2025-08-20_01-00-44.jpg, latest.jpg (total=2)
+DB insert ok id=386 file=capture_2025-08-20_01-00-44.jpg
+✅ Capture sukses dari http://10.39.183.57/capture?_cb=1755644444: capture_2025-08-20_01-00-44.jpg
+Script started
+Upload dir: C:\xampp\htdocs\employee_monitoring\uploads\ (real: C:\xampp\htdocs\employee_monitoring\uploads) CWD: C:\xampp\htdocs\employee_monitoring
+Folder sudah ada
+Filepath tujuan: C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_01-15-12.jpg
+Mulai parallel fetch...
+✅ Tersimpan: bytes=8119 exists=yes size=8119 path=C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_01-15-12.jpg
+Isi folder uploads (max 10): capture_2025-08-20_01-15-12.jpg, latest.jpg (total=2)
+DB insert ok id=387 file=capture_2025-08-20_01-15-12.jpg
+✅ Capture sukses dari http://10.39.183.57/capture?_cb=1755645312: capture_2025-08-20_01-15-12.jpg
+Script started
+Upload dir: C:\xampp\htdocs\employee_monitoring\uploads\ (real: C:\xampp\htdocs\employee_monitoring\uploads) CWD: C:\xampp\htdocs\employee_monitoring
+Folder sudah ada
+Filepath tujuan: C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_01-16-30.jpg
+Mode manual: Menerima gambar via POST
+✅ Diterima gambar JPEG via POST, ukuran: 7139 bytes
+✅ Tersimpan: bytes=7139 exists=yes size=7139 path=C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_01-16-30.jpg
+Isi folder uploads (max 10): capture_2025-08-20_01-16-30.jpg, latest.jpg (total=2)
+DB insert ok id=388 file=capture_2025-08-20_01-16-30.jpg
+✅ Upload sukses via POST: capture_2025-08-20_01-16-30.jpg
+Script started
+Upload dir: C:\xampp\htdocs\employee_monitoring\uploads\ (real: C:\xampp\htdocs\employee_monitoring\uploads) CWD: C:\xampp\htdocs\employee_monitoring
+Folder sudah ada
+Filepath tujuan: C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_01-18-30.jpg
+Mode manual: Menerima gambar via POST
+✅ Diterima gambar JPEG via POST, ukuran: 7139 bytes
+✅ Tersimpan: bytes=7139 exists=yes size=7139 path=C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_01-18-30.jpg
+Isi folder uploads (max 10): capture_2025-08-20_01-18-30.jpg, latest.jpg (total=2)
+DB insert ok id=389 file=capture_2025-08-20_01-18-30.jpg
+✅ Upload sukses via POST: capture_2025-08-20_01-18-30.jpg
+Script started
+Upload dir: C:\xampp\htdocs\employee_monitoring\uploads\ (real: C:\xampp\htdocs\employee_monitoring\uploads) CWD: C:\xampp\htdocs\employee_monitoring
+Folder sudah ada
+Filepath tujuan: C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_01-18-46.jpg
+Mulai parallel fetch...
+✅ Tersimpan: bytes=8119 exists=yes size=8119 path=C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_01-18-46.jpg
+Isi folder uploads (max 10): capture_2025-08-20_01-18-46.jpg, latest.jpg (total=2)
+DB insert ok id=390 file=capture_2025-08-20_01-18-46.jpg
+✅ Capture sukses dari http://10.39.183.57/capture?_cb=1755645526: capture_2025-08-20_01-18-46.jpg
+Script started
+Upload dir: C:\xampp\htdocs\employee_monitoring\uploads\ (real: C:\xampp\htdocs\employee_monitoring\uploads) CWD: C:\xampp\htdocs\employee_monitoring
+Folder sudah ada
+Filepath tujuan: C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_01-18-57.jpg
+Mulai parallel fetch...
+✅ Tersimpan: bytes=8119 exists=yes size=8119 path=C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_01-18-57.jpg
+Isi folder uploads (max 10): capture_2025-08-20_01-18-57.jpg, latest.jpg (total=2)
+DB insert ok id=391 file=capture_2025-08-20_01-18-57.jpg
+✅ Capture sukses dari http://10.39.183.57/capture?_cb=1755645537: capture_2025-08-20_01-18-57.jpg
+Script started
+Upload dir: C:\xampp\htdocs\employee_monitoring\uploads\ (real: C:\xampp\htdocs\employee_monitoring\uploads) CWD: C:\xampp\htdocs\employee_monitoring
+Folder sudah ada
+Filepath tujuan: C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_01-20-30.jpg
+Mode manual: Menerima gambar via POST
+✅ Diterima gambar JPEG via POST, ukuran: 8119 bytes
+✅ Tersimpan: bytes=8119 exists=yes size=8119 path=C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_01-20-30.jpg
+Isi folder uploads (max 10): capture_2025-08-20_01-20-30.jpg, latest.jpg (total=2)
+DB insert ok id=392 file=capture_2025-08-20_01-20-30.jpg
+✅ Upload sukses via POST: capture_2025-08-20_01-20-30.jpg
+Script started
+Upload dir: C:\xampp\htdocs\employee_monitoring\uploads\ (real: C:\xampp\htdocs\employee_monitoring\uploads) CWD: C:\xampp\htdocs\employee_monitoring
+Folder sudah ada
+Filepath tujuan: C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_01-22-30.jpg
+Mode manual: Menerima gambar via POST
+✅ Diterima gambar JPEG via POST, ukuran: 6138 bytes
+✅ Tersimpan: bytes=6138 exists=yes size=6138 path=C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_01-22-30.jpg
+Isi folder uploads (max 10): capture_2025-08-20_01-22-30.jpg, latest.jpg (total=2)
+DB insert ok id=393 file=capture_2025-08-20_01-22-30.jpg
+✅ Upload sukses via POST: capture_2025-08-20_01-22-30.jpg
+Script started
+Upload dir: C:\xampp\htdocs\employee_monitoring\uploads\ (real: C:\xampp\htdocs\employee_monitoring\uploads) CWD: C:\xampp\htdocs\employee_monitoring
+Folder sudah ada
+Filepath tujuan: C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_01-24-30.jpg
+Mode manual: Menerima gambar via POST
+✅ Diterima gambar JPEG via POST, ukuran: 5100 bytes
+✅ Tersimpan: bytes=5100 exists=yes size=5100 path=C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_01-24-30.jpg
+Isi folder uploads (max 10): capture_2025-08-20_01-24-30.jpg, latest.jpg (total=2)
+DB insert ok id=394 file=capture_2025-08-20_01-24-30.jpg
+✅ Upload sukses via POST: capture_2025-08-20_01-24-30.jpg
+Script started
+Upload dir: C:\xampp\htdocs\employee_monitoring\uploads\ (real: C:\xampp\htdocs\employee_monitoring\uploads) CWD: C:\xampp\htdocs\employee_monitoring
+Folder sudah ada
+Filepath tujuan: C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_01-26-30.jpg
+Mode manual: Menerima gambar via POST
+✅ Diterima gambar JPEG via POST, ukuran: 5100 bytes
+✅ Tersimpan: bytes=5100 exists=yes size=5100 path=C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_01-26-30.jpg
+Isi folder uploads (max 10): capture_2025-08-20_01-26-30.jpg, latest.jpg (total=2)
+DB insert ok id=395 file=capture_2025-08-20_01-26-30.jpg
+✅ Upload sukses via POST: capture_2025-08-20_01-26-30.jpg
+Script started
+Upload dir: C:\xampp\htdocs\employee_monitoring\uploads\ (real: C:\xampp\htdocs\employee_monitoring\uploads) CWD: C:\xampp\htdocs\employee_monitoring
+Folder sudah ada
+Filepath tujuan: C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_01-28-30.jpg
+Mode manual: Menerima gambar via POST
+✅ Diterima gambar JPEG via POST, ukuran: 5100 bytes
+✅ Tersimpan: bytes=5100 exists=yes size=5100 path=C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_01-28-30.jpg
+Isi folder uploads (max 10): capture_2025-08-20_01-26-30.jpg, capture_2025-08-20_01-28-30.jpg, latest.jpg (total=3)
+DB insert ok id=396 file=capture_2025-08-20_01-28-30.jpg
+✅ Upload sukses via POST: capture_2025-08-20_01-28-30.jpg
+Script started
+Upload dir: C:\xampp\htdocs\employee_monitoring\uploads\ (real: C:\xampp\htdocs\employee_monitoring\uploads) CWD: C:\xampp\htdocs\employee_monitoring
+Folder sudah ada
+Filepath tujuan: C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_01-30-30.jpg
+Mode manual: Menerima gambar via POST
+✅ Diterima gambar JPEG via POST, ukuran: 5100 bytes
+✅ Tersimpan: bytes=5100 exists=yes size=5100 path=C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_01-30-30.jpg
+Isi folder uploads (max 10): capture_2025-08-20_01-26-30.jpg, capture_2025-08-20_01-28-30.jpg, capture_2025-08-20_01-30-30.jpg, latest.jpg (total=4)
+DB insert ok id=397 file=capture_2025-08-20_01-30-30.jpg
+✅ Upload sukses via POST: capture_2025-08-20_01-30-30.jpg
+Script started
+Upload dir: C:\xampp\htdocs\employee_monitoring\uploads\ (real: C:\xampp\htdocs\employee_monitoring\uploads) CWD: C:\xampp\htdocs\employee_monitoring
+Folder sudah ada
+Filepath tujuan: C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_01-32-30.jpg
+Mode manual: Menerima gambar via POST
+✅ Diterima gambar JPEG via POST, ukuran: 5100 bytes
+✅ Tersimpan: bytes=5100 exists=yes size=5100 path=C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_01-32-30.jpg
+Isi folder uploads (max 10): capture_2025-08-20_01-26-30.jpg, capture_2025-08-20_01-28-30.jpg, capture_2025-08-20_01-30-30.jpg, capture_2025-08-20_01-32-30.jpg, latest.jpg (total=5)
+DB insert ok id=398 file=capture_2025-08-20_01-32-30.jpg
+✅ Upload sukses via POST: capture_2025-08-20_01-32-30.jpg
+Script started
+Upload dir: C:\xampp\htdocs\employee_monitoring\uploads\ (real: C:\xampp\htdocs\employee_monitoring\uploads) CWD: C:\xampp\htdocs\employee_monitoring
+Folder sudah ada
+Filepath tujuan: C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_01-34-30.jpg
+Mode manual: Menerima gambar via POST
+✅ Diterima gambar JPEG via POST, ukuran: 5100 bytes
+✅ Tersimpan: bytes=5100 exists=yes size=5100 path=C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_01-34-30.jpg
+Isi folder uploads (max 10): capture_2025-08-20_01-26-30.jpg, capture_2025-08-20_01-28-30.jpg, capture_2025-08-20_01-30-30.jpg, capture_2025-08-20_01-32-30.jpg, capture_2025-08-20_01-34-30.jpg, latest.jpg (total=6)
+DB insert ok id=399 file=capture_2025-08-20_01-34-30.jpg
+✅ Upload sukses via POST: capture_2025-08-20_01-34-30.jpg
+Script started
+Upload dir: C:\xampp\htdocs\employee_monitoring\uploads\ (real: C:\xampp\htdocs\employee_monitoring\uploads) CWD: C:\xampp\htdocs\employee_monitoring
+Folder sudah ada
+Filepath tujuan: C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_01-36-30.jpg
+Mode manual: Menerima gambar via POST
+✅ Diterima gambar JPEG via POST, ukuran: 5100 bytes
+✅ Tersimpan: bytes=5100 exists=yes size=5100 path=C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_01-36-30.jpg
+Isi folder uploads (max 10): capture_2025-08-20_01-26-30.jpg, capture_2025-08-20_01-28-30.jpg, capture_2025-08-20_01-30-30.jpg, capture_2025-08-20_01-32-30.jpg, capture_2025-08-20_01-34-30.jpg, capture_2025-08-20_01-36-30.jpg, latest.jpg (total=7)
+DB insert ok id=400 file=capture_2025-08-20_01-36-30.jpg
+✅ Upload sukses via POST: capture_2025-08-20_01-36-30.jpg
+Script started
+Upload dir: C:\xampp\htdocs\employee_monitoring\uploads\ (real: C:\xampp\htdocs\employee_monitoring\uploads) CWD: C:\xampp\htdocs\employee_monitoring
+Folder sudah ada
+Filepath tujuan: C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_01-38-30.jpg
+Mode manual: Menerima gambar via POST
+✅ Diterima gambar JPEG via POST, ukuran: 5100 bytes
+✅ Tersimpan: bytes=5100 exists=yes size=5100 path=C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_01-38-30.jpg
+Isi folder uploads (max 10): capture_2025-08-20_01-26-30.jpg, capture_2025-08-20_01-28-30.jpg, capture_2025-08-20_01-30-30.jpg, capture_2025-08-20_01-32-30.jpg, capture_2025-08-20_01-34-30.jpg, capture_2025-08-20_01-36-30.jpg, capture_2025-08-20_01-38-30.jpg, latest.jpg (total=8)
+DB insert ok id=401 file=capture_2025-08-20_01-38-30.jpg
+✅ Upload sukses via POST: capture_2025-08-20_01-38-30.jpg
+Script started
+Upload dir: C:\xampp\htdocs\employee_monitoring\uploads\ (real: C:\xampp\htdocs\employee_monitoring\uploads) CWD: C:\xampp\htdocs\employee_monitoring
+Folder sudah ada
+Filepath tujuan: C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_01-40-30.jpg
+Mode manual: Menerima gambar via POST
+✅ Diterima gambar JPEG via POST, ukuran: 4855 bytes
+✅ Tersimpan: bytes=4855 exists=yes size=4855 path=C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_01-40-30.jpg
+Isi folder uploads (max 10): capture_2025-08-20_01-26-30.jpg, capture_2025-08-20_01-28-30.jpg, capture_2025-08-20_01-30-30.jpg, capture_2025-08-20_01-32-30.jpg, capture_2025-08-20_01-34-30.jpg, capture_2025-08-20_01-36-30.jpg, capture_2025-08-20_01-38-30.jpg, capture_2025-08-20_01-40-30.jpg, latest.jpg (total=9)
+DB insert ok id=402 file=capture_2025-08-20_01-40-30.jpg
+✅ Upload sukses via POST: capture_2025-08-20_01-40-30.jpg
+Script started
+Upload dir: C:\xampp\htdocs\employee_monitoring\uploads\ (real: C:\xampp\htdocs\employee_monitoring\uploads) CWD: C:\xampp\htdocs\employee_monitoring
+Folder sudah ada
+Filepath tujuan: C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_01-42-32.jpg
+Mode manual: Menerima gambar via POST
+✅ Diterima gambar JPEG via POST, ukuran: 6138 bytes
+✅ Tersimpan: bytes=6138 exists=yes size=6138 path=C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_01-42-32.jpg
+Isi folder uploads (max 10): capture_2025-08-20_01-26-30.jpg, capture_2025-08-20_01-28-30.jpg, capture_2025-08-20_01-30-30.jpg, capture_2025-08-20_01-32-30.jpg, capture_2025-08-20_01-34-30.jpg, capture_2025-08-20_01-36-30.jpg, capture_2025-08-20_01-38-30.jpg, capture_2025-08-20_01-40-30.jpg, capture_2025-08-20_01-42-32.jpg, latest.jpg (total=10)
+DB insert ok id=403 file=capture_2025-08-20_01-42-32.jpg
+✅ Upload sukses via POST: capture_2025-08-20_01-42-32.jpg
+Script started
+Upload dir: C:\xampp\htdocs\employee_monitoring\uploads\ (real: C:\xampp\htdocs\employee_monitoring\uploads) CWD: C:\xampp\htdocs\employee_monitoring
+Folder sudah ada
+Filepath tujuan: C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_01-43-14.jpg
+Mulai parallel fetch...
+✅ Tersimpan: bytes=6138 exists=yes size=6138 path=C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_01-43-14.jpg
+Isi folder uploads (max 10): capture_2025-08-20_01-26-30.jpg, capture_2025-08-20_01-28-30.jpg, capture_2025-08-20_01-30-30.jpg, capture_2025-08-20_01-32-30.jpg, capture_2025-08-20_01-34-30.jpg, capture_2025-08-20_01-36-30.jpg, capture_2025-08-20_01-38-30.jpg, capture_2025-08-20_01-40-30.jpg, capture_2025-08-20_01-42-32.jpg, capture_2025-08-20_01-43-14.jpg (total=11)
+DB insert ok id=404 file=capture_2025-08-20_01-43-14.jpg
+✅ Capture sukses dari http://10.39.183.57/capture?_cb=1755646994: capture_2025-08-20_01-43-14.jpg
+Script started
+Upload dir: C:\xampp\htdocs\employee_monitoring\uploads\ (real: C:\xampp\htdocs\employee_monitoring\uploads) CWD: C:\xampp\htdocs\employee_monitoring
+Folder sudah ada
+Filepath tujuan: C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_01-44-32.jpg
+Mode manual: Menerima gambar via POST
+✅ Diterima gambar JPEG via POST, ukuran: 5924 bytes
+✅ Tersimpan: bytes=5924 exists=yes size=5924 path=C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_01-44-32.jpg
+Isi folder uploads (max 10): capture_2025-08-20_01-26-30.jpg, capture_2025-08-20_01-28-30.jpg, capture_2025-08-20_01-30-30.jpg, capture_2025-08-20_01-32-30.jpg, capture_2025-08-20_01-34-30.jpg, capture_2025-08-20_01-36-30.jpg, capture_2025-08-20_01-38-30.jpg, capture_2025-08-20_01-40-30.jpg, capture_2025-08-20_01-42-32.jpg, capture_2025-08-20_01-43-14.jpg (total=12)
+DB insert ok id=405 file=capture_2025-08-20_01-44-32.jpg
+✅ Upload sukses via POST: capture_2025-08-20_01-44-32.jpg
+Script started
+Upload dir: C:\xampp\htdocs\employee_monitoring\uploads\ (real: C:\xampp\htdocs\employee_monitoring\uploads) CWD: C:\xampp\htdocs\employee_monitoring
+Folder sudah ada
+Filepath tujuan: C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_01-45-14.jpg
+Mulai parallel fetch...
+✅ Tersimpan: bytes=5993 exists=yes size=5993 path=C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_01-45-14.jpg
+Isi folder uploads (max 10): capture_2025-08-20_01-26-30.jpg, capture_2025-08-20_01-28-30.jpg, capture_2025-08-20_01-30-30.jpg, capture_2025-08-20_01-32-30.jpg, capture_2025-08-20_01-34-30.jpg, capture_2025-08-20_01-36-30.jpg, capture_2025-08-20_01-38-30.jpg, capture_2025-08-20_01-40-30.jpg, capture_2025-08-20_01-42-32.jpg, capture_2025-08-20_01-43-14.jpg (total=13)
+DB insert ok id=406 file=capture_2025-08-20_01-45-14.jpg
+✅ Capture sukses dari http://10.39.183.57/capture?_cb=1755647114: capture_2025-08-20_01-45-14.jpg
+Script started
+Upload dir: C:\xampp\htdocs\employee_monitoring\uploads\ (real: C:\xampp\htdocs\employee_monitoring\uploads) CWD: C:\xampp\htdocs\employee_monitoring
+Folder sudah ada
+Filepath tujuan: C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_01-46-34.jpg
+Mode manual: Menerima gambar via POST
+✅ Diterima gambar JPEG via POST, ukuran: 6040 bytes
+✅ Tersimpan: bytes=6040 exists=yes size=6040 path=C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_01-46-34.jpg
+Isi folder uploads (max 10): capture_2025-08-20_01-26-30.jpg, capture_2025-08-20_01-28-30.jpg, capture_2025-08-20_01-30-30.jpg, capture_2025-08-20_01-32-30.jpg, capture_2025-08-20_01-34-30.jpg, capture_2025-08-20_01-36-30.jpg, capture_2025-08-20_01-38-30.jpg, capture_2025-08-20_01-40-30.jpg, capture_2025-08-20_01-42-32.jpg, capture_2025-08-20_01-43-14.jpg (total=14)
+DB insert ok id=407 file=capture_2025-08-20_01-46-34.jpg
+✅ Upload sukses via POST: capture_2025-08-20_01-46-34.jpg
+Script started
+Upload dir: C:\xampp\htdocs\employee_monitoring\uploads\ (real: C:\xampp\htdocs\employee_monitoring\uploads) CWD: C:\xampp\htdocs\employee_monitoring
+Folder sudah ada
+Filepath tujuan: C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_01-47-14.jpg
+Mulai parallel fetch...
+✅ Tersimpan: bytes=6073 exists=yes size=6073 path=C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_01-47-14.jpg
+Isi folder uploads (max 10): capture_2025-08-20_01-26-30.jpg, capture_2025-08-20_01-28-30.jpg, capture_2025-08-20_01-30-30.jpg, capture_2025-08-20_01-32-30.jpg, capture_2025-08-20_01-34-30.jpg, capture_2025-08-20_01-36-30.jpg, capture_2025-08-20_01-38-30.jpg, capture_2025-08-20_01-40-30.jpg, capture_2025-08-20_01-42-32.jpg, capture_2025-08-20_01-43-14.jpg (total=15)
+DB insert ok id=408 file=capture_2025-08-20_01-47-14.jpg
+✅ Capture sukses dari http://10.39.183.57/capture?_cb=1755647234: capture_2025-08-20_01-47-14.jpg
+Script started
+Upload dir: C:\xampp\htdocs\employee_monitoring\uploads\ (real: C:\xampp\htdocs\employee_monitoring\uploads) CWD: C:\xampp\htdocs\employee_monitoring
+Folder sudah ada
+Filepath tujuan: C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_01-48-33.jpg
+Mode manual: Menerima gambar via POST
+✅ Diterima gambar JPEG via POST, ukuran: 6120 bytes
+✅ Tersimpan: bytes=6120 exists=yes size=6120 path=C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_01-48-33.jpg
+Isi folder uploads (max 10): capture_2025-08-20_01-26-30.jpg, capture_2025-08-20_01-28-30.jpg, capture_2025-08-20_01-30-30.jpg, capture_2025-08-20_01-32-30.jpg, capture_2025-08-20_01-34-30.jpg, capture_2025-08-20_01-36-30.jpg, capture_2025-08-20_01-38-30.jpg, capture_2025-08-20_01-40-30.jpg, capture_2025-08-20_01-42-32.jpg, capture_2025-08-20_01-43-14.jpg (total=16)
+DB insert ok id=409 file=capture_2025-08-20_01-48-33.jpg
+✅ Upload sukses via POST: capture_2025-08-20_01-48-33.jpg
+Script started
+Upload dir: C:\xampp\htdocs\employee_monitoring\uploads\ (real: C:\xampp\htdocs\employee_monitoring\uploads) CWD: C:\xampp\htdocs\employee_monitoring
+Folder sudah ada
+Filepath tujuan: C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_01-49-14.jpg
+Mulai parallel fetch...
+✅ Tersimpan: bytes=6113 exists=yes size=6113 path=C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_01-49-14.jpg
+Isi folder uploads (max 10): capture_2025-08-20_01-26-30.jpg, capture_2025-08-20_01-28-30.jpg, capture_2025-08-20_01-30-30.jpg, capture_2025-08-20_01-32-30.jpg, capture_2025-08-20_01-34-30.jpg, capture_2025-08-20_01-36-30.jpg, capture_2025-08-20_01-38-30.jpg, capture_2025-08-20_01-40-30.jpg, capture_2025-08-20_01-42-32.jpg, capture_2025-08-20_01-43-14.jpg (total=17)
+DB insert ok id=410 file=capture_2025-08-20_01-49-14.jpg
+✅ Capture sukses dari http://10.39.183.57/capture?_cb=1755647354: capture_2025-08-20_01-49-14.jpg
+Script started
+Upload dir: C:\xampp\htdocs\employee_monitoring\uploads\ (real: C:\xampp\htdocs\employee_monitoring\uploads) CWD: C:\xampp\htdocs\employee_monitoring
+Folder sudah ada
+Filepath tujuan: C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_01-50-32.jpg
+Mode manual: Menerima gambar via POST
+✅ Diterima gambar JPEG via POST, ukuran: 6141 bytes
+✅ Tersimpan: bytes=6141 exists=yes size=6141 path=C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_01-50-32.jpg
+Isi folder uploads (max 10): capture_2025-08-20_01-26-30.jpg, capture_2025-08-20_01-28-30.jpg, capture_2025-08-20_01-30-30.jpg, capture_2025-08-20_01-32-30.jpg, capture_2025-08-20_01-34-30.jpg, capture_2025-08-20_01-36-30.jpg, capture_2025-08-20_01-38-30.jpg, capture_2025-08-20_01-40-30.jpg, capture_2025-08-20_01-42-32.jpg, capture_2025-08-20_01-43-14.jpg (total=18)
+DB insert ok id=411 file=capture_2025-08-20_01-50-32.jpg
+✅ Upload sukses via POST: capture_2025-08-20_01-50-32.jpg
+Script started
+Upload dir: C:\xampp\htdocs\employee_monitoring\uploads\ (real: C:\xampp\htdocs\employee_monitoring\uploads) CWD: C:\xampp\htdocs\employee_monitoring
+Folder sudah ada
+Filepath tujuan: C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_01-51-42.jpg
+Mulai parallel fetch...
+✅ Tersimpan: bytes=5980 exists=yes size=5980 path=C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_01-51-42.jpg
+Isi folder uploads (max 10): capture_2025-08-20_01-26-30.jpg, capture_2025-08-20_01-28-30.jpg, capture_2025-08-20_01-30-30.jpg, capture_2025-08-20_01-32-30.jpg, capture_2025-08-20_01-34-30.jpg, capture_2025-08-20_01-36-30.jpg, capture_2025-08-20_01-38-30.jpg, capture_2025-08-20_01-40-30.jpg, capture_2025-08-20_01-42-32.jpg, capture_2025-08-20_01-43-14.jpg (total=19)
+DB insert ok id=412 file=capture_2025-08-20_01-51-42.jpg
+✅ Capture sukses dari http://10.39.183.57/capture?_cb=1755647502: capture_2025-08-20_01-51-42.jpg
+Script started
+Upload dir: C:\xampp\htdocs\employee_monitoring\uploads\ (real: C:\xampp\htdocs\employee_monitoring\uploads) CWD: C:\xampp\htdocs\employee_monitoring
+Folder sudah ada
+Filepath tujuan: C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_01-52-31.jpg
+Mode manual: Menerima gambar via POST
+✅ Diterima gambar JPEG via POST, ukuran: 6110 bytes
+✅ Tersimpan: bytes=6110 exists=yes size=6110 path=C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_01-52-31.jpg
+Isi folder uploads (max 10): capture_2025-08-20_01-26-30.jpg, capture_2025-08-20_01-28-30.jpg, capture_2025-08-20_01-30-30.jpg, capture_2025-08-20_01-32-30.jpg, capture_2025-08-20_01-34-30.jpg, capture_2025-08-20_01-36-30.jpg, capture_2025-08-20_01-38-30.jpg, capture_2025-08-20_01-40-30.jpg, capture_2025-08-20_01-42-32.jpg, capture_2025-08-20_01-43-14.jpg (total=20)
+DB insert ok id=413 file=capture_2025-08-20_01-52-31.jpg
+✅ Upload sukses via POST: capture_2025-08-20_01-52-31.jpg
+Script started
+Upload dir: C:\xampp\htdocs\employee_monitoring\uploads\ (real: C:\xampp\htdocs\employee_monitoring\uploads) CWD: C:\xampp\htdocs\employee_monitoring
+Folder sudah ada
+Filepath tujuan: C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_01-53-42.jpg
+Mulai parallel fetch...
+✅ Tersimpan: bytes=6125 exists=yes size=6125 path=C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_01-53-42.jpg
+Isi folder uploads (max 10): capture_2025-08-20_01-26-30.jpg, capture_2025-08-20_01-28-30.jpg, capture_2025-08-20_01-30-30.jpg, capture_2025-08-20_01-32-30.jpg, capture_2025-08-20_01-34-30.jpg, capture_2025-08-20_01-36-30.jpg, capture_2025-08-20_01-38-30.jpg, capture_2025-08-20_01-40-30.jpg, capture_2025-08-20_01-42-32.jpg, capture_2025-08-20_01-43-14.jpg (total=21)
+DB insert ok id=414 file=capture_2025-08-20_01-53-42.jpg
+✅ Capture sukses dari http://10.39.183.57/capture?_cb=1755647622: capture_2025-08-20_01-53-42.jpg
+Script started
+Upload dir: C:\xampp\htdocs\employee_monitoring\uploads\ (real: C:\xampp\htdocs\employee_monitoring\uploads) CWD: C:\xampp\htdocs\employee_monitoring
+Folder sudah ada
+Filepath tujuan: C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_01-55-42.jpg
+Mulai parallel fetch...
+✅ Tersimpan: bytes=6136 exists=yes size=6136 path=C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_01-55-42.jpg
+Isi folder uploads (max 10): capture_2025-08-20_01-26-30.jpg, capture_2025-08-20_01-28-30.jpg, capture_2025-08-20_01-30-30.jpg, capture_2025-08-20_01-32-30.jpg, capture_2025-08-20_01-34-30.jpg, capture_2025-08-20_01-36-30.jpg, capture_2025-08-20_01-38-30.jpg, capture_2025-08-20_01-40-30.jpg, capture_2025-08-20_01-42-32.jpg, capture_2025-08-20_01-43-14.jpg (total=22)
+DB insert ok id=415 file=capture_2025-08-20_01-55-42.jpg
+✅ Capture sukses dari http://10.39.183.57/capture?_cb=1755647742: capture_2025-08-20_01-55-42.jpg
+Script started
+Upload dir: C:\xampp\htdocs\employee_monitoring\uploads\ (real: C:\xampp\htdocs\employee_monitoring\uploads) CWD: C:\xampp\htdocs\employee_monitoring
+Folder sudah ada
+Filepath tujuan: C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_01-56-32.jpg
+Mode manual: Menerima gambar via POST
+✅ Diterima gambar JPEG via POST, ukuran: 6136 bytes
+✅ Tersimpan: bytes=6136 exists=yes size=6136 path=C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_01-56-32.jpg
+Isi folder uploads (max 10): capture_2025-08-20_01-26-30.jpg, capture_2025-08-20_01-28-30.jpg, capture_2025-08-20_01-30-30.jpg, capture_2025-08-20_01-32-30.jpg, capture_2025-08-20_01-34-30.jpg, capture_2025-08-20_01-36-30.jpg, capture_2025-08-20_01-38-30.jpg, capture_2025-08-20_01-40-30.jpg, capture_2025-08-20_01-42-32.jpg, capture_2025-08-20_01-43-14.jpg (total=23)
+DB insert ok id=416 file=capture_2025-08-20_01-56-32.jpg
+✅ Upload sukses via POST: capture_2025-08-20_01-56-32.jpg
+Script started
+Upload dir: C:\xampp\htdocs\employee_monitoring\uploads\ (real: C:\xampp\htdocs\employee_monitoring\uploads) CWD: C:\xampp\htdocs\employee_monitoring
+Folder sudah ada
+Filepath tujuan: C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_01-58-33.jpg
+Mode manual: Menerima gambar via POST
+✅ Diterima gambar JPEG via POST, ukuran: 6136 bytes
+✅ Tersimpan: bytes=6136 exists=yes size=6136 path=C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_01-58-33.jpg
+Isi folder uploads (max 10): capture_2025-08-20_01-26-30.jpg, capture_2025-08-20_01-28-30.jpg, capture_2025-08-20_01-30-30.jpg, capture_2025-08-20_01-32-30.jpg, capture_2025-08-20_01-34-30.jpg, capture_2025-08-20_01-36-30.jpg, capture_2025-08-20_01-38-30.jpg, capture_2025-08-20_01-40-30.jpg, capture_2025-08-20_01-42-32.jpg, capture_2025-08-20_01-43-14.jpg (total=24)
+DB insert ok id=417 file=capture_2025-08-20_01-58-33.jpg
+✅ Upload sukses via POST: capture_2025-08-20_01-58-33.jpg
+Script started
+Upload dir: C:\xampp\htdocs\employee_monitoring\uploads\ (real: C:\xampp\htdocs\employee_monitoring\uploads) CWD: C:\xampp\htdocs\employee_monitoring
+Folder sudah ada
+Filepath tujuan: C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_01-58-39.jpg
+Mulai parallel fetch...
+✅ Tersimpan: bytes=6136 exists=yes size=6136 path=C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_01-58-39.jpg
+Isi folder uploads (max 10): capture_2025-08-20_01-26-30.jpg, capture_2025-08-20_01-28-30.jpg, capture_2025-08-20_01-30-30.jpg, capture_2025-08-20_01-32-30.jpg, capture_2025-08-20_01-34-30.jpg, capture_2025-08-20_01-36-30.jpg, capture_2025-08-20_01-38-30.jpg, capture_2025-08-20_01-40-30.jpg, capture_2025-08-20_01-42-32.jpg, capture_2025-08-20_01-43-14.jpg (total=25)
+DB insert ok id=418 file=capture_2025-08-20_01-58-39.jpg
+✅ Capture sukses dari http://10.39.183.57/capture?_cb=1755647919: capture_2025-08-20_01-58-39.jpg
+Script started
+Upload dir: C:\xampp\htdocs\employee_monitoring\uploads\ (real: C:\xampp\htdocs\employee_monitoring\uploads) CWD: C:\xampp\htdocs\employee_monitoring
+Folder sudah ada
+Filepath tujuan: C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_02-00-39.jpg
+Mulai parallel fetch...
+✅ Tersimpan: bytes=6136 exists=yes size=6136 path=C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_02-00-39.jpg
+Isi folder uploads (max 10): capture_2025-08-20_01-26-30.jpg, capture_2025-08-20_01-28-30.jpg, capture_2025-08-20_01-30-30.jpg, capture_2025-08-20_01-32-30.jpg, capture_2025-08-20_01-34-30.jpg, capture_2025-08-20_01-36-30.jpg, capture_2025-08-20_01-38-30.jpg, capture_2025-08-20_01-40-30.jpg, capture_2025-08-20_01-42-32.jpg, capture_2025-08-20_01-43-14.jpg (total=26)
+DB insert ok id=419 file=capture_2025-08-20_02-00-39.jpg
+✅ Capture sukses dari http://10.39.183.57/capture?_cb=1755648039: capture_2025-08-20_02-00-39.jpg
+Script started
+Upload dir: C:\xampp\htdocs\employee_monitoring\uploads\ (real: C:\xampp\htdocs\employee_monitoring\uploads) CWD: C:\xampp\htdocs\employee_monitoring
+Folder sudah ada
+Filepath tujuan: C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_02-02-39.jpg
+Mulai parallel fetch...
+✅ Tersimpan: bytes=6136 exists=yes size=6136 path=C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_02-02-39.jpg
+Isi folder uploads (max 10): capture_2025-08-20_01-26-30.jpg, capture_2025-08-20_01-28-30.jpg, capture_2025-08-20_01-30-30.jpg, capture_2025-08-20_01-32-30.jpg, capture_2025-08-20_01-34-30.jpg, capture_2025-08-20_01-36-30.jpg, capture_2025-08-20_01-38-30.jpg, capture_2025-08-20_01-40-30.jpg, capture_2025-08-20_01-42-32.jpg, capture_2025-08-20_01-43-14.jpg (total=27)
+DB insert ok id=420 file=capture_2025-08-20_02-02-39.jpg
+✅ Capture sukses dari http://10.39.183.57/capture?_cb=1755648159: capture_2025-08-20_02-02-39.jpg
+Script started
+Upload dir: C:\xampp\htdocs\employee_monitoring\uploads\ (real: C:\xampp\htdocs\employee_monitoring\uploads) CWD: C:\xampp\htdocs\employee_monitoring
+Folder sudah ada
+Filepath tujuan: C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_02-04-39.jpg
+Mulai parallel fetch...
+✅ Tersimpan: bytes=6128 exists=yes size=6128 path=C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_02-04-39.jpg
+Isi folder uploads (max 10): capture_2025-08-20_01-26-30.jpg, capture_2025-08-20_01-28-30.jpg, capture_2025-08-20_01-30-30.jpg, capture_2025-08-20_01-32-30.jpg, capture_2025-08-20_01-34-30.jpg, capture_2025-08-20_01-36-30.jpg, capture_2025-08-20_01-38-30.jpg, capture_2025-08-20_01-40-30.jpg, capture_2025-08-20_01-42-32.jpg, capture_2025-08-20_01-43-14.jpg (total=28)
+DB insert ok id=421 file=capture_2025-08-20_02-04-39.jpg
+✅ Capture sukses dari http://10.39.183.57/capture?_cb=1755648279: capture_2025-08-20_02-04-39.jpg
+Script started
+Upload dir: C:\xampp\htdocs\employee_monitoring\uploads\ (real: C:\xampp\htdocs\employee_monitoring\uploads) CWD: C:\xampp\htdocs\employee_monitoring
+Folder sudah ada
+Filepath tujuan: C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_02-06-32.jpg
+Mode manual: Menerima gambar via POST
+✅ Diterima gambar JPEG via POST, ukuran: 6135 bytes
+✅ Tersimpan: bytes=6135 exists=yes size=6135 path=C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_02-06-32.jpg
+Isi folder uploads (max 10): capture_2025-08-20_01-26-30.jpg, capture_2025-08-20_01-28-30.jpg, capture_2025-08-20_01-30-30.jpg, capture_2025-08-20_01-32-30.jpg, capture_2025-08-20_01-34-30.jpg, capture_2025-08-20_01-36-30.jpg, capture_2025-08-20_01-38-30.jpg, capture_2025-08-20_01-40-30.jpg, capture_2025-08-20_01-42-32.jpg, capture_2025-08-20_01-43-14.jpg (total=29)
+DB insert ok id=422 file=capture_2025-08-20_02-06-32.jpg
+✅ Upload sukses via POST: capture_2025-08-20_02-06-32.jpg
+Script started
+Upload dir: C:\xampp\htdocs\employee_monitoring\uploads\ (real: C:\xampp\htdocs\employee_monitoring\uploads) CWD: C:\xampp\htdocs\employee_monitoring
+Folder sudah ada
+Filepath tujuan: C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_02-06-39.jpg
+Mulai parallel fetch...
+✅ Tersimpan: bytes=6027 exists=yes size=6027 path=C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_02-06-39.jpg
+Isi folder uploads (max 10): capture_2025-08-20_01-26-30.jpg, capture_2025-08-20_01-28-30.jpg, capture_2025-08-20_01-30-30.jpg, capture_2025-08-20_01-32-30.jpg, capture_2025-08-20_01-34-30.jpg, capture_2025-08-20_01-36-30.jpg, capture_2025-08-20_01-38-30.jpg, capture_2025-08-20_01-40-30.jpg, capture_2025-08-20_01-42-32.jpg, capture_2025-08-20_01-43-14.jpg (total=30)
+DB insert ok id=423 file=capture_2025-08-20_02-06-39.jpg
+✅ Capture sukses dari http://10.39.183.57/capture?_cb=1755648399: capture_2025-08-20_02-06-39.jpg
+Script started
+Upload dir: C:\xampp\htdocs\employee_monitoring\uploads\ (real: C:\xampp\htdocs\employee_monitoring\uploads) CWD: C:\xampp\htdocs\employee_monitoring
+Folder sudah ada
+Filepath tujuan: C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_02-08-31.jpg
+Mode manual: Menerima gambar via POST
+✅ Diterima gambar JPEG via POST, ukuran: 6140 bytes
+✅ Tersimpan: bytes=6140 exists=yes size=6140 path=C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_02-08-31.jpg
+Isi folder uploads (max 10): capture_2025-08-20_01-26-30.jpg, capture_2025-08-20_01-28-30.jpg, capture_2025-08-20_01-30-30.jpg, capture_2025-08-20_01-32-30.jpg, capture_2025-08-20_01-34-30.jpg, capture_2025-08-20_01-36-30.jpg, capture_2025-08-20_01-38-30.jpg, capture_2025-08-20_01-40-30.jpg, capture_2025-08-20_01-42-32.jpg, capture_2025-08-20_01-43-14.jpg (total=31)
+DB insert ok id=424 file=capture_2025-08-20_02-08-31.jpg
+✅ Upload sukses via POST: capture_2025-08-20_02-08-31.jpg
+Script started
+Upload dir: C:\xampp\htdocs\employee_monitoring\uploads\ (real: C:\xampp\htdocs\employee_monitoring\uploads) CWD: C:\xampp\htdocs\employee_monitoring
+Folder sudah ada
+Filepath tujuan: C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_02-10-31.jpg
+Mode manual: Menerima gambar via POST
+✅ Diterima gambar JPEG via POST, ukuran: 6038 bytes
+✅ Tersimpan: bytes=6038 exists=yes size=6038 path=C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_02-10-31.jpg
+Isi folder uploads (max 10): capture_2025-08-20_01-26-30.jpg, capture_2025-08-20_01-28-30.jpg, capture_2025-08-20_01-30-30.jpg, capture_2025-08-20_01-32-30.jpg, capture_2025-08-20_01-34-30.jpg, capture_2025-08-20_01-36-30.jpg, capture_2025-08-20_01-38-30.jpg, capture_2025-08-20_01-40-30.jpg, capture_2025-08-20_01-42-32.jpg, capture_2025-08-20_01-43-14.jpg (total=32)
+DB insert ok id=425 file=capture_2025-08-20_02-10-31.jpg
+✅ Upload sukses via POST: capture_2025-08-20_02-10-31.jpg
+Script started
+Upload dir: C:\xampp\htdocs\employee_monitoring\uploads\ (real: C:\xampp\htdocs\employee_monitoring\uploads) CWD: C:\xampp\htdocs\employee_monitoring
+Folder sudah ada
+Filepath tujuan: C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_02-12-31.jpg
+Mode manual: Menerima gambar via POST
+✅ Diterima gambar JPEG via POST, ukuran: 6095 bytes
+✅ Tersimpan: bytes=6095 exists=yes size=6095 path=C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_02-12-31.jpg
+Isi folder uploads (max 10): capture_2025-08-20_01-26-30.jpg, capture_2025-08-20_01-28-30.jpg, capture_2025-08-20_01-30-30.jpg, capture_2025-08-20_01-32-30.jpg, capture_2025-08-20_01-34-30.jpg, capture_2025-08-20_01-36-30.jpg, capture_2025-08-20_01-38-30.jpg, capture_2025-08-20_01-40-30.jpg, capture_2025-08-20_01-42-32.jpg, capture_2025-08-20_01-43-14.jpg (total=33)
+DB insert ok id=426 file=capture_2025-08-20_02-12-31.jpg
+✅ Upload sukses via POST: capture_2025-08-20_02-12-31.jpg
+Script started
+Upload dir: C:\xampp\htdocs\employee_monitoring\uploads\ (real: C:\xampp\htdocs\employee_monitoring\uploads) CWD: C:\xampp\htdocs\employee_monitoring
+Folder sudah ada
+Filepath tujuan: C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_02-14-31.jpg
+Mode manual: Menerima gambar via POST
+✅ Diterima gambar JPEG via POST, ukuran: 7136 bytes
+✅ Tersimpan: bytes=7136 exists=yes size=7136 path=C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_02-14-31.jpg
+Isi folder uploads (max 10): capture_2025-08-20_01-26-30.jpg, capture_2025-08-20_01-28-30.jpg, capture_2025-08-20_01-30-30.jpg, capture_2025-08-20_01-32-30.jpg, capture_2025-08-20_01-34-30.jpg, capture_2025-08-20_01-36-30.jpg, capture_2025-08-20_01-38-30.jpg, capture_2025-08-20_01-40-30.jpg, capture_2025-08-20_01-42-32.jpg, capture_2025-08-20_01-43-14.jpg (total=34)
+DB insert ok id=427 file=capture_2025-08-20_02-14-31.jpg
+✅ Upload sukses via POST: capture_2025-08-20_02-14-31.jpg
+Script started
+Upload dir: C:\xampp\htdocs\employee_monitoring\uploads\ (real: C:\xampp\htdocs\employee_monitoring\uploads) CWD: C:\xampp\htdocs\employee_monitoring
+Folder sudah ada
+Filepath tujuan: C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_02-16-31.jpg
+Mode manual: Menerima gambar via POST
+✅ Diterima gambar JPEG via POST, ukuran: 8120 bytes
+✅ Tersimpan: bytes=8120 exists=yes size=8120 path=C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_02-16-31.jpg
+Isi folder uploads (max 10): capture_2025-08-20_01-26-30.jpg, capture_2025-08-20_01-28-30.jpg, capture_2025-08-20_01-30-30.jpg, capture_2025-08-20_01-32-30.jpg, capture_2025-08-20_01-34-30.jpg, capture_2025-08-20_01-36-30.jpg, capture_2025-08-20_01-38-30.jpg, capture_2025-08-20_01-40-30.jpg, capture_2025-08-20_01-42-32.jpg, capture_2025-08-20_01-43-14.jpg (total=35)
+DB insert ok id=428 file=capture_2025-08-20_02-16-31.jpg
+✅ Upload sukses via POST: capture_2025-08-20_02-16-31.jpg
+Script started
+Upload dir: C:\xampp\htdocs\employee_monitoring\uploads\ (real: C:\xampp\htdocs\employee_monitoring\uploads) CWD: C:\xampp\htdocs\employee_monitoring
+Folder sudah ada
+Filepath tujuan: C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_02-18-31.jpg
+Mode manual: Menerima gambar via POST
+✅ Diterima gambar JPEG via POST, ukuran: 8149 bytes
+✅ Tersimpan: bytes=8149 exists=yes size=8149 path=C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_02-18-31.jpg
+Isi folder uploads (max 10): capture_2025-08-20_01-26-30.jpg, capture_2025-08-20_01-28-30.jpg, capture_2025-08-20_01-30-30.jpg, capture_2025-08-20_01-32-30.jpg, capture_2025-08-20_01-34-30.jpg, capture_2025-08-20_01-36-30.jpg, capture_2025-08-20_01-38-30.jpg, capture_2025-08-20_01-40-30.jpg, capture_2025-08-20_01-42-32.jpg, capture_2025-08-20_01-43-14.jpg (total=36)
+DB insert ok id=429 file=capture_2025-08-20_02-18-31.jpg
+✅ Upload sukses via POST: capture_2025-08-20_02-18-31.jpg
+Script started
+Upload dir: C:\xampp\htdocs\employee_monitoring\uploads\ (real: C:\xampp\htdocs\employee_monitoring\uploads) CWD: C:\xampp\htdocs\employee_monitoring
+Folder sudah ada
+Filepath tujuan: C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_02-20-31.jpg
+Mode manual: Menerima gambar via POST
+✅ Diterima gambar JPEG via POST, ukuran: 8149 bytes
+✅ Tersimpan: bytes=8149 exists=yes size=8149 path=C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_02-20-31.jpg
+Isi folder uploads (max 10): capture_2025-08-20_01-26-30.jpg, capture_2025-08-20_01-28-30.jpg, capture_2025-08-20_01-30-30.jpg, capture_2025-08-20_01-32-30.jpg, capture_2025-08-20_01-34-30.jpg, capture_2025-08-20_01-36-30.jpg, capture_2025-08-20_01-38-30.jpg, capture_2025-08-20_01-40-30.jpg, capture_2025-08-20_01-42-32.jpg, capture_2025-08-20_01-43-14.jpg (total=37)
+DB insert ok id=430 file=capture_2025-08-20_02-20-31.jpg
+✅ Upload sukses via POST: capture_2025-08-20_02-20-31.jpg
+Script started
+Upload dir: C:\xampp\htdocs\employee_monitoring\uploads\ (real: C:\xampp\htdocs\employee_monitoring\uploads) CWD: C:\xampp\htdocs\employee_monitoring
+Folder sudah ada
+Filepath tujuan: C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_02-22-31.jpg
+Mode manual: Menerima gambar via POST
+✅ Diterima gambar JPEG via POST, ukuran: 7132 bytes
+✅ Tersimpan: bytes=7132 exists=yes size=7132 path=C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_02-22-31.jpg
+Isi folder uploads (max 10): capture_2025-08-20_01-26-30.jpg, capture_2025-08-20_01-28-30.jpg, capture_2025-08-20_01-30-30.jpg, capture_2025-08-20_01-32-30.jpg, capture_2025-08-20_01-34-30.jpg, capture_2025-08-20_01-36-30.jpg, capture_2025-08-20_01-38-30.jpg, capture_2025-08-20_01-40-30.jpg, capture_2025-08-20_01-42-32.jpg, capture_2025-08-20_01-43-14.jpg (total=38)
+DB insert ok id=431 file=capture_2025-08-20_02-22-31.jpg
+✅ Upload sukses via POST: capture_2025-08-20_02-22-31.jpg
+Script started
+Upload dir: C:\xampp\htdocs\employee_monitoring\uploads\ (real: C:\xampp\htdocs\employee_monitoring\uploads) CWD: C:\xampp\htdocs\employee_monitoring
+Folder sudah ada
+Filepath tujuan: C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_02-47-06.jpg
+Mulai parallel fetch...
+❌ Gagal ambil gambar dari semua URL. HTTP:0 ERR:timeout
+Script started
+Upload dir: C:\xampp\htdocs\employee_monitoring\uploads\ (real: C:\xampp\htdocs\employee_monitoring\uploads) CWD: C:\xampp\htdocs\employee_monitoring
+Folder sudah ada
+Filepath tujuan: C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_02-50-25.jpg
+Mulai parallel fetch...
+✅ Tersimpan: bytes=9465 exists=yes size=9465 path=C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_02-50-25.jpg
+Isi folder uploads (max 10): capture_2025-08-20_02-50-25.jpg, latest.jpg (total=2)
+DB insert ok id=432 file=capture_2025-08-20_02-50-25.jpg
+✅ Capture sukses dari http://10.39.183.57/capture?_cb=1755651025: capture_2025-08-20_02-50-25.jpg
+Script started
+Upload dir: C:\xampp\htdocs\employee_monitoring\uploads\ (real: C:\xampp\htdocs\employee_monitoring\uploads) CWD: C:\xampp\htdocs\employee_monitoring
+Folder sudah ada
+Filepath tujuan: C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_02-52-01.jpg
+Mode manual: Menerima gambar via POST
+✅ Diterima gambar JPEG via POST, ukuran: 9282 bytes
+✅ Tersimpan: bytes=9282 exists=yes size=9282 path=C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_02-52-01.jpg
+Isi folder uploads (max 10): capture_2025-08-20_02-52-01.jpg, latest.jpg (total=2)
+DB insert ok id=433 file=capture_2025-08-20_02-52-01.jpg
+✅ Upload sukses via POST: capture_2025-08-20_02-52-01.jpg
+Script started
+Upload dir: C:\xampp\htdocs\employee_monitoring\uploads\ (real: C:\xampp\htdocs\employee_monitoring\uploads) CWD: C:\xampp\htdocs\employee_monitoring
+Folder sudah ada
+Filepath tujuan: C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_02-52-58.jpg
+Mulai parallel fetch...
+✅ Tersimpan: bytes=8848 exists=yes size=8848 path=C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_02-52-58.jpg
+Isi folder uploads (max 10): capture_2025-08-20_02-52-58.jpg, latest.jpg (total=2)
+DB insert ok id=434 file=capture_2025-08-20_02-52-58.jpg
+✅ Capture sukses dari http://10.39.183.57/capture?_cb=1755651178: capture_2025-08-20_02-52-58.jpg
+Script started
+Upload dir: C:\xampp\htdocs\employee_monitoring\uploads\ (real: C:\xampp\htdocs\employee_monitoring\uploads) CWD: C:\xampp\htdocs\employee_monitoring
+Folder sudah ada
+Filepath tujuan: C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_02-54-02.jpg
+Mode manual: Menerima gambar via POST
+✅ Diterima gambar JPEG via POST, ukuran: 8684 bytes
+✅ Tersimpan: bytes=8684 exists=yes size=8684 path=C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_02-54-02.jpg
+Isi folder uploads (max 10): capture_2025-08-20_02-54-02.jpg, latest.jpg (total=2)
+DB insert ok id=435 file=capture_2025-08-20_02-54-02.jpg
+✅ Upload sukses via POST: capture_2025-08-20_02-54-02.jpg
+Script started
+Upload dir: C:\xampp\htdocs\employee_monitoring\uploads\ (real: C:\xampp\htdocs\employee_monitoring\uploads) CWD: C:\xampp\htdocs\employee_monitoring
+Folder sudah ada
+Filepath tujuan: C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_02-54-51.jpg
+Mulai parallel fetch...
+✅ Tersimpan: bytes=9254 exists=yes size=9254 path=C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_02-54-51.jpg
+Isi folder uploads (max 10): capture_2025-08-20_02-54-51.jpg, latest.jpg (total=2)
+DB insert ok id=436 file=capture_2025-08-20_02-54-51.jpg
+✅ Capture sukses dari http://10.39.183.57/capture?_cb=1755651291: capture_2025-08-20_02-54-51.jpg
+Script started
+Upload dir: C:\xampp\htdocs\employee_monitoring\uploads\ (real: C:\xampp\htdocs\employee_monitoring\uploads) CWD: C:\xampp\htdocs\employee_monitoring
+Folder sudah ada
+Filepath tujuan: C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_02-56-01.jpg
+Mode manual: Menerima gambar via POST
+✅ Diterima gambar JPEG via POST, ukuran: 8975 bytes
+✅ Tersimpan: bytes=8975 exists=yes size=8975 path=C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_02-56-01.jpg
+Isi folder uploads (max 10): capture_2025-08-20_02-54-51.jpg, capture_2025-08-20_02-56-01.jpg, latest.jpg (total=3)
+DB insert ok id=437 file=capture_2025-08-20_02-56-01.jpg
+✅ Upload sukses via POST: capture_2025-08-20_02-56-01.jpg
+Script started
+Upload dir: C:\xampp\htdocs\employee_monitoring\uploads\ (real: C:\xampp\htdocs\employee_monitoring\uploads) CWD: C:\xampp\htdocs\employee_monitoring
+Folder sudah ada
+Filepath tujuan: C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_02-56-51.jpg
+Mulai parallel fetch...
+✅ Tersimpan: bytes=9250 exists=yes size=9250 path=C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_02-56-51.jpg
+Isi folder uploads (max 10): capture_2025-08-20_02-54-51.jpg, capture_2025-08-20_02-56-01.jpg, capture_2025-08-20_02-56-51.jpg, latest.jpg (total=4)
+DB insert ok id=438 file=capture_2025-08-20_02-56-51.jpg
+✅ Capture sukses dari http://10.39.183.57/capture?_cb=1755651411: capture_2025-08-20_02-56-51.jpg
+Script started
+Upload dir: C:\xampp\htdocs\employee_monitoring\uploads\ (real: C:\xampp\htdocs\employee_monitoring\uploads) CWD: C:\xampp\htdocs\employee_monitoring
+Folder sudah ada
+Filepath tujuan: C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_02-58-04.jpg
+Mode manual: Menerima gambar via POST
+✅ Diterima gambar JPEG via POST, ukuran: 8585 bytes
+✅ Tersimpan: bytes=8585 exists=yes size=8585 path=C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_02-58-04.jpg
+Isi folder uploads (max 10): capture_2025-08-20_02-54-51.jpg, capture_2025-08-20_02-56-01.jpg, capture_2025-08-20_02-56-51.jpg, capture_2025-08-20_02-58-04.jpg, latest.jpg (total=5)
+DB insert ok id=439 file=capture_2025-08-20_02-58-04.jpg
+✅ Upload sukses via POST: capture_2025-08-20_02-58-04.jpg
+Script started
+Upload dir: C:\xampp\htdocs\employee_monitoring\uploads\ (real: C:\xampp\htdocs\employee_monitoring\uploads) CWD: C:\xampp\htdocs\employee_monitoring
+Folder sudah ada
+Filepath tujuan: C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_02-58-51.jpg
+Mulai parallel fetch...
+✅ Tersimpan: bytes=8679 exists=yes size=8679 path=C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_02-58-51.jpg
+Isi folder uploads (max 10): capture_2025-08-20_02-54-51.jpg, capture_2025-08-20_02-56-01.jpg, capture_2025-08-20_02-56-51.jpg, capture_2025-08-20_02-58-04.jpg, capture_2025-08-20_02-58-51.jpg, latest.jpg (total=6)
+DB insert ok id=440 file=capture_2025-08-20_02-58-51.jpg
+✅ Capture sukses dari http://10.39.183.57/capture?_cb=1755651531: capture_2025-08-20_02-58-51.jpg
+Script started
+Upload dir: C:\xampp\htdocs\employee_monitoring\uploads\ (real: C:\xampp\htdocs\employee_monitoring\uploads) CWD: C:\xampp\htdocs\employee_monitoring
+Folder sudah ada
+Filepath tujuan: C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_02-59-38.jpg
+Mulai parallel fetch...
+✅ Tersimpan: bytes=9037 exists=yes size=9037 path=C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_02-59-38.jpg
+Isi folder uploads (max 10): capture_2025-08-20_02-54-51.jpg, capture_2025-08-20_02-56-01.jpg, capture_2025-08-20_02-56-51.jpg, capture_2025-08-20_02-58-04.jpg, capture_2025-08-20_02-58-51.jpg, capture_2025-08-20_02-59-38.jpg, latest.jpg (total=7)
+DB insert ok id=441 file=capture_2025-08-20_02-59-38.jpg
+✅ Capture sukses dari http://10.39.183.57/capture?_cb=1755651578: capture_2025-08-20_02-59-38.jpg
+Script started
+Upload dir: C:\xampp\htdocs\employee_monitoring\uploads\ (real: C:\xampp\htdocs\employee_monitoring\uploads) CWD: C:\xampp\htdocs\employee_monitoring
+Folder sudah ada
+Filepath tujuan: C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_03-00-02.jpg
+Mode manual: Menerima gambar via POST
+✅ Diterima gambar JPEG via POST, ukuran: 9214 bytes
+✅ Tersimpan: bytes=9214 exists=yes size=9214 path=C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_03-00-02.jpg
+Isi folder uploads (max 10): capture_2025-08-20_02-54-51.jpg, capture_2025-08-20_02-56-01.jpg, capture_2025-08-20_02-56-51.jpg, capture_2025-08-20_02-58-04.jpg, capture_2025-08-20_02-58-51.jpg, capture_2025-08-20_02-59-38.jpg, capture_2025-08-20_03-00-02.jpg, latest.jpg (total=8)
+DB insert ok id=442 file=capture_2025-08-20_03-00-02.jpg
+✅ Upload sukses via POST: capture_2025-08-20_03-00-02.jpg
+Script started
+Upload dir: C:\xampp\htdocs\employee_monitoring\uploads\ (real: C:\xampp\htdocs\employee_monitoring\uploads) CWD: C:\xampp\htdocs\employee_monitoring
+Folder sudah ada
+Filepath tujuan: C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_03-00-29.jpg
+Mulai parallel fetch...
+✅ Tersimpan: bytes=9228 exists=yes size=9228 path=C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_03-00-29.jpg
+Isi folder uploads (max 10): capture_2025-08-20_02-54-51.jpg, capture_2025-08-20_02-56-01.jpg, capture_2025-08-20_02-56-51.jpg, capture_2025-08-20_02-58-04.jpg, capture_2025-08-20_02-58-51.jpg, capture_2025-08-20_02-59-38.jpg, capture_2025-08-20_03-00-02.jpg, capture_2025-08-20_03-00-29.jpg, latest.jpg (total=9)
+DB insert ok id=443 file=capture_2025-08-20_03-00-29.jpg
+✅ Capture sukses dari http://10.39.183.57/capture?_cb=1755651629: capture_2025-08-20_03-00-29.jpg
+Script started
+Upload dir: C:\xampp\htdocs\employee_monitoring\uploads\ (real: C:\xampp\htdocs\employee_monitoring\uploads) CWD: C:\xampp\htdocs\employee_monitoring
+Folder sudah ada
+Filepath tujuan: C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_03-00-41.jpg
+Mulai parallel fetch...
+✅ Tersimpan: bytes=9326 exists=yes size=9326 path=C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_03-00-41.jpg
+Isi folder uploads (max 10): capture_2025-08-20_02-54-51.jpg, capture_2025-08-20_02-56-01.jpg, capture_2025-08-20_02-56-51.jpg, capture_2025-08-20_02-58-04.jpg, capture_2025-08-20_02-58-51.jpg, capture_2025-08-20_02-59-38.jpg, capture_2025-08-20_03-00-02.jpg, capture_2025-08-20_03-00-29.jpg, capture_2025-08-20_03-00-41.jpg, latest.jpg (total=10)
+DB insert ok id=444 file=capture_2025-08-20_03-00-41.jpg
+✅ Capture sukses dari http://10.39.183.57/capture?_cb=1755651641: capture_2025-08-20_03-00-41.jpg
+Script started
+Upload dir: C:\xampp\htdocs\employee_monitoring\uploads\ (real: C:\xampp\htdocs\employee_monitoring\uploads) CWD: C:\xampp\htdocs\employee_monitoring
+Folder sudah ada
+Filepath tujuan: C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_03-01-00.jpg
+Mulai parallel fetch...
+✅ Tersimpan: bytes=9152 exists=yes size=9152 path=C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_03-01-00.jpg
+Isi folder uploads (max 10): capture_2025-08-20_02-54-51.jpg, capture_2025-08-20_02-56-01.jpg, capture_2025-08-20_02-56-51.jpg, capture_2025-08-20_02-58-04.jpg, capture_2025-08-20_02-58-51.jpg, capture_2025-08-20_02-59-38.jpg, capture_2025-08-20_03-00-02.jpg, capture_2025-08-20_03-00-29.jpg, capture_2025-08-20_03-00-41.jpg, capture_2025-08-20_03-01-00.jpg (total=11)
+DB insert ok id=445 file=capture_2025-08-20_03-01-00.jpg
+✅ Capture sukses dari http://10.39.183.57/capture?_cb=1755651660: capture_2025-08-20_03-01-00.jpg
+Script started
+Upload dir: C:\xampp\htdocs\employee_monitoring\uploads\ (real: C:\xampp\htdocs\employee_monitoring\uploads) CWD: C:\xampp\htdocs\employee_monitoring
+Folder sudah ada
+Filepath tujuan: C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_03-01-04.jpg
+Mulai parallel fetch...
+✅ Tersimpan: bytes=9139 exists=yes size=9139 path=C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_03-01-04.jpg
+Isi folder uploads (max 10): capture_2025-08-20_02-54-51.jpg, capture_2025-08-20_02-56-01.jpg, capture_2025-08-20_02-56-51.jpg, capture_2025-08-20_02-58-04.jpg, capture_2025-08-20_02-58-51.jpg, capture_2025-08-20_02-59-38.jpg, capture_2025-08-20_03-00-02.jpg, capture_2025-08-20_03-00-29.jpg, capture_2025-08-20_03-00-41.jpg, capture_2025-08-20_03-01-00.jpg (total=12)
+DB insert ok id=446 file=capture_2025-08-20_03-01-04.jpg
+✅ Capture sukses dari http://10.39.183.57/capture?_cb=1755651664: capture_2025-08-20_03-01-04.jpg
+Script started
+Upload dir: C:\xampp\htdocs\employee_monitoring\uploads\ (real: C:\xampp\htdocs\employee_monitoring\uploads) CWD: C:\xampp\htdocs\employee_monitoring
+Folder sudah ada
+Filepath tujuan: C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_03-01-15.jpg
+Mulai parallel fetch...
+✅ Tersimpan: bytes=9066 exists=yes size=9066 path=C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_03-01-15.jpg
+Isi folder uploads (max 10): capture_2025-08-20_02-54-51.jpg, capture_2025-08-20_02-56-01.jpg, capture_2025-08-20_02-56-51.jpg, capture_2025-08-20_02-58-04.jpg, capture_2025-08-20_02-58-51.jpg, capture_2025-08-20_02-59-38.jpg, capture_2025-08-20_03-00-02.jpg, capture_2025-08-20_03-00-29.jpg, capture_2025-08-20_03-00-41.jpg, capture_2025-08-20_03-01-00.jpg (total=13)
+DB insert ok id=447 file=capture_2025-08-20_03-01-15.jpg
+✅ Capture sukses dari http://10.39.183.57/capture?_cb=1755651675: capture_2025-08-20_03-01-15.jpg
+Script started
+Upload dir: C:\xampp\htdocs\employee_monitoring\uploads\ (real: C:\xampp\htdocs\employee_monitoring\uploads) CWD: C:\xampp\htdocs\employee_monitoring
+Folder sudah ada
+Filepath tujuan: C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_03-02-02.jpg
+Mode manual: Menerima gambar via POST
+✅ Diterima gambar JPEG via POST, ukuran: 9116 bytes
+✅ Tersimpan: bytes=9116 exists=yes size=9116 path=C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_03-02-02.jpg
+Isi folder uploads (max 10): capture_2025-08-20_02-54-51.jpg, capture_2025-08-20_02-56-01.jpg, capture_2025-08-20_02-56-51.jpg, capture_2025-08-20_02-58-04.jpg, capture_2025-08-20_02-58-51.jpg, capture_2025-08-20_02-59-38.jpg, capture_2025-08-20_03-00-02.jpg, capture_2025-08-20_03-00-29.jpg, capture_2025-08-20_03-00-41.jpg, capture_2025-08-20_03-01-00.jpg (total=14)
+DB insert ok id=448 file=capture_2025-08-20_03-02-02.jpg
+✅ Upload sukses via POST: capture_2025-08-20_03-02-02.jpg
+Script started
+Upload dir: C:\xampp\htdocs\employee_monitoring\uploads\ (real: C:\xampp\htdocs\employee_monitoring\uploads) CWD: C:\xampp\htdocs\employee_monitoring
+Folder sudah ada
+Filepath tujuan: C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_03-03-47.jpg
+Mulai parallel fetch...
+✅ Tersimpan: bytes=6984 exists=yes size=6984 path=C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_03-03-47.jpg
+Isi folder uploads (max 10): capture_2025-08-20_02-54-51.jpg, capture_2025-08-20_02-56-01.jpg, capture_2025-08-20_02-56-51.jpg, capture_2025-08-20_02-58-04.jpg, capture_2025-08-20_02-58-51.jpg, capture_2025-08-20_02-59-38.jpg, capture_2025-08-20_03-00-02.jpg, capture_2025-08-20_03-00-29.jpg, capture_2025-08-20_03-00-41.jpg, capture_2025-08-20_03-01-00.jpg (total=15)
+DB insert ok id=449 file=capture_2025-08-20_03-03-47.jpg
+✅ Capture sukses dari http://10.39.183.57/capture?_cb=1755651827: capture_2025-08-20_03-03-47.jpg
+Script started
+Upload dir: C:\xampp\htdocs\employee_monitoring\uploads\ (real: C:\xampp\htdocs\employee_monitoring\uploads) CWD: C:\xampp\htdocs\employee_monitoring
+Folder sudah ada
+Filepath tujuan: C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_03-04-02.jpg
+Mode manual: Menerima gambar via POST
+✅ Diterima gambar JPEG via POST, ukuran: 11004 bytes
+✅ Tersimpan: bytes=11004 exists=yes size=11004 path=C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_03-04-02.jpg
+Isi folder uploads (max 10): capture_2025-08-20_02-54-51.jpg, capture_2025-08-20_02-56-01.jpg, capture_2025-08-20_02-56-51.jpg, capture_2025-08-20_02-58-04.jpg, capture_2025-08-20_02-58-51.jpg, capture_2025-08-20_02-59-38.jpg, capture_2025-08-20_03-00-02.jpg, capture_2025-08-20_03-00-29.jpg, capture_2025-08-20_03-00-41.jpg, capture_2025-08-20_03-01-00.jpg (total=16)
+DB insert ok id=450 file=capture_2025-08-20_03-04-02.jpg
+✅ Upload sukses via POST: capture_2025-08-20_03-04-02.jpg
+Script started
+Upload dir: C:\xampp\htdocs\employee_monitoring\uploads\ (real: C:\xampp\htdocs\employee_monitoring\uploads) CWD: C:\xampp\htdocs\employee_monitoring
+Folder sudah ada
+Filepath tujuan: C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_03-06-02.jpg
+Mode manual: Menerima gambar via POST
+✅ Diterima gambar JPEG via POST, ukuran: 9937 bytes
+✅ Tersimpan: bytes=9937 exists=yes size=9937 path=C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_03-06-02.jpg
+Isi folder uploads (max 10): capture_2025-08-20_03-06-02.jpg, latest.jpg (total=2)
+DB insert ok id=451 file=capture_2025-08-20_03-06-02.jpg
+✅ Upload sukses via POST: capture_2025-08-20_03-06-02.jpg
+Script started
+Upload dir: C:\xampp\htdocs\employee_monitoring\uploads\ (real: C:\xampp\htdocs\employee_monitoring\uploads) CWD: C:\xampp\htdocs\employee_monitoring
+Folder sudah ada
+Filepath tujuan: C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_03-08-02.jpg
+Mode manual: Menerima gambar via POST
+✅ Diterima gambar JPEG via POST, ukuran: 11105 bytes
+✅ Tersimpan: bytes=11105 exists=yes size=11105 path=C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_03-08-02.jpg
+Isi folder uploads (max 10): capture_2025-08-20_03-08-02.jpg, latest.jpg (total=2)
+DB insert ok id=452 file=capture_2025-08-20_03-08-02.jpg
+✅ Upload sukses via POST: capture_2025-08-20_03-08-02.jpg
+Script started
+Upload dir: C:\xampp\htdocs\employee_monitoring\uploads\ (real: C:\xampp\htdocs\employee_monitoring\uploads) CWD: C:\xampp\htdocs\employee_monitoring
+Folder sudah ada
+Filepath tujuan: C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_03-10-02.jpg
+Mode manual: Menerima gambar via POST
+✅ Diterima gambar JPEG via POST, ukuran: 10118 bytes
+✅ Tersimpan: bytes=10118 exists=yes size=10118 path=C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_03-10-02.jpg
+Isi folder uploads (max 10): capture_2025-08-20_03-10-02.jpg, latest.jpg (total=2)
+DB insert ok id=453 file=capture_2025-08-20_03-10-02.jpg
+✅ Upload sukses via POST: capture_2025-08-20_03-10-02.jpg
+Script started
+Upload dir: C:\xampp\htdocs\employee_monitoring\uploads\ (real: C:\xampp\htdocs\employee_monitoring\uploads) CWD: C:\xampp\htdocs\employee_monitoring
+Folder sudah ada
+Filepath tujuan: C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_03-12-02.jpg
+Mode manual: Menerima gambar via POST
+✅ Diterima gambar JPEG via POST, ukuran: 8389 bytes
+✅ Tersimpan: bytes=8389 exists=yes size=8389 path=C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_03-12-02.jpg
+Isi folder uploads (max 10): capture_2025-08-20_03-12-02.jpg, latest.jpg (total=2)
+DB insert ok id=454 file=capture_2025-08-20_03-12-02.jpg
+✅ Upload sukses via POST: capture_2025-08-20_03-12-02.jpg
+Script started
+Upload dir: C:\xampp\htdocs\employee_monitoring\uploads\ (real: C:\xampp\htdocs\employee_monitoring\uploads) CWD: C:\xampp\htdocs\employee_monitoring
+Folder sudah ada
+Filepath tujuan: C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_05-36-12.jpg
+Mode manual: Menerima gambar via POST
+✅ Diterima gambar JPEG via POST, ukuran: 47435 bytes
+✅ Tersimpan: bytes=47435 exists=yes size=47435 path=C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_05-36-12.jpg
+Isi folder uploads (max 10): capture_2025-08-20_05-36-12.jpg, latest.jpg (total=2)
+DB insert ok id=455 file=capture_2025-08-20_05-36-12.jpg
+✅ Upload sukses via POST: capture_2025-08-20_05-36-12.jpg
+Script started
+Upload dir: C:\xampp\htdocs\employee_monitoring\uploads\ (real: C:\xampp\htdocs\employee_monitoring\uploads) CWD: C:\xampp\htdocs\employee_monitoring
+Folder sudah ada
+Filepath tujuan: C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_05-47-35.jpg
+Mode manual: Menerima gambar via POST
+✅ Diterima gambar JPEG via POST, ukuran: 8182 bytes
+✅ Tersimpan: bytes=8182 exists=yes size=8182 path=C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_05-47-35.jpg
+Isi folder uploads (max 10): capture_2025-08-20_05-47-35.jpg, latest.jpg (total=2)
+DB insert ok id=456 file=capture_2025-08-20_05-47-35.jpg
+✅ Upload sukses via POST: capture_2025-08-20_05-47-35.jpg
+Script started
+Upload dir: C:\xampp\htdocs\employee_monitoring\uploads\ (real: C:\xampp\htdocs\employee_monitoring\uploads) CWD: C:\xampp\htdocs\employee_monitoring
+Folder sudah ada
+Filepath tujuan: C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_05-49-35.jpg
+Mode manual: Menerima gambar via POST
+✅ Diterima gambar JPEG via POST, ukuran: 8145 bytes
+✅ Tersimpan: bytes=8145 exists=yes size=8145 path=C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_05-49-35.jpg
+Isi folder uploads (max 10): capture_2025-08-20_05-49-35.jpg, latest.jpg (total=2)
+DB insert ok id=457 file=capture_2025-08-20_05-49-35.jpg
+✅ Upload sukses via POST: capture_2025-08-20_05-49-35.jpg
+Script started
+Upload dir: C:\xampp\htdocs\employee_monitoring\uploads\ (real: C:\xampp\htdocs\employee_monitoring\uploads) CWD: C:\xampp\htdocs\employee_monitoring
+Folder sudah ada
+Filepath tujuan: C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_05-51-35.jpg
+Mode manual: Menerima gambar via POST
+✅ Diterima gambar JPEG via POST, ukuran: 8145 bytes
+✅ Tersimpan: bytes=8145 exists=yes size=8145 path=C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_05-51-35.jpg
+Isi folder uploads (max 10): capture_2025-08-20_05-51-35.jpg, latest.jpg (total=2)
+DB insert ok id=458 file=capture_2025-08-20_05-51-35.jpg
+✅ Upload sukses via POST: capture_2025-08-20_05-51-35.jpg
+Script started
+Upload dir: C:\xampp\htdocs\employee_monitoring\uploads\ (real: C:\xampp\htdocs\employee_monitoring\uploads) CWD: C:\xampp\htdocs\employee_monitoring
+Folder sudah ada
+Filepath tujuan: C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_05-53-37.jpg
+Mode manual: Menerima gambar via POST
+✅ Diterima gambar JPEG via POST, ukuran: 44428 bytes
+✅ Tersimpan: bytes=44428 exists=yes size=44428 path=C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_05-53-37.jpg
+Isi folder uploads (max 10): capture_2025-08-20_05-53-37.jpg, latest.jpg (total=2)
+DB insert ok id=459 file=capture_2025-08-20_05-53-37.jpg
+✅ Upload sukses via POST: capture_2025-08-20_05-53-37.jpg
+Script started
+Upload dir: C:\xampp\htdocs\employee_monitoring\uploads\ (real: C:\xampp\htdocs\employee_monitoring\uploads) CWD: C:\xampp\htdocs\employee_monitoring
+Folder sudah ada
+Filepath tujuan: C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_05-54-44.jpg
+Mulai parallel fetch...
+❌ Gagal ambil gambar dari semua URL. HTTP:0 ERR:timeout
+Script started
+Upload dir: C:\xampp\htdocs\employee_monitoring\uploads\ (real: C:\xampp\htdocs\employee_monitoring\uploads) CWD: C:\xampp\htdocs\employee_monitoring
+Folder sudah ada
+Filepath tujuan: C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_05-55-44.jpg
+Mulai parallel fetch...
+✅ Tersimpan: bytes=8261 exists=yes size=8261 path=C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_05-55-44.jpg
+Isi folder uploads (max 10): capture_2025-08-20_05-55-44.jpg, latest.jpg (total=2)
+DB insert ok id=460 file=capture_2025-08-20_05-55-44.jpg
+✅ Capture sukses dari http://10.39.183.57/capture?_cb=1755662144: capture_2025-08-20_05-55-44.jpg
+Script started
+Upload dir: C:\xampp\htdocs\employee_monitoring\uploads\ (real: C:\xampp\htdocs\employee_monitoring\uploads) CWD: C:\xampp\htdocs\employee_monitoring
+Folder sudah ada
+Filepath tujuan: C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_05-55-54.jpg
+Mulai parallel fetch...
+✅ Tersimpan: bytes=8251 exists=yes size=8251 path=C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_05-55-54.jpg
+Isi folder uploads (max 10): capture_2025-08-20_05-55-54.jpg, latest.jpg (total=2)
+DB insert ok id=461 file=capture_2025-08-20_05-55-54.jpg
+✅ Capture sukses dari http://10.39.183.57/capture?_cb=1755662154: capture_2025-08-20_05-55-54.jpg
+Script started
+Upload dir: C:\xampp\htdocs\employee_monitoring\uploads\ (real: C:\xampp\htdocs\employee_monitoring\uploads) CWD: C:\xampp\htdocs\employee_monitoring
+Folder sudah ada
+Filepath tujuan: C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_05-56-02.jpg
+Mulai parallel fetch...
+✅ Tersimpan: bytes=8237 exists=yes size=8237 path=C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_05-56-02.jpg
+Isi folder uploads (max 10): capture_2025-08-20_05-56-02.jpg, latest.jpg (total=2)
+DB insert ok id=462 file=capture_2025-08-20_05-56-02.jpg
+✅ Capture sukses dari http://10.39.183.57/capture?_cb=1755662162: capture_2025-08-20_05-56-02.jpg
+Script started
+Upload dir: C:\xampp\htdocs\employee_monitoring\uploads\ (real: C:\xampp\htdocs\employee_monitoring\uploads) CWD: C:\xampp\htdocs\employee_monitoring
+Folder sudah ada
+Filepath tujuan: C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_05-56-57.jpg
+Mode manual: Menerima gambar via POST
+✅ Diterima gambar JPEG via POST, ukuran: 46236 bytes
+✅ Tersimpan: bytes=46236 exists=yes size=46236 path=C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_05-56-57.jpg
+Isi folder uploads (max 10): capture_2025-08-20_05-56-57.jpg, latest.jpg (total=2)
+DB insert ok id=463 file=capture_2025-08-20_05-56-57.jpg
+✅ Upload sukses via POST: capture_2025-08-20_05-56-57.jpg
+Script started
+Upload dir: C:\xampp\htdocs\employee_monitoring\uploads\ (real: C:\xampp\htdocs\employee_monitoring\uploads) CWD: C:\xampp\htdocs\employee_monitoring
+Folder sudah ada
+Filepath tujuan: C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_05-58-57.jpg
+Mode manual: Menerima gambar via POST
+✅ Diterima gambar JPEG via POST, ukuran: 45569 bytes
+✅ Tersimpan: bytes=45569 exists=yes size=45569 path=C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_05-58-57.jpg
+Isi folder uploads (max 10): capture_2025-08-20_05-58-57.jpg, latest.jpg (total=2)
+DB insert ok id=464 file=capture_2025-08-20_05-58-57.jpg
+✅ Upload sukses via POST: capture_2025-08-20_05-58-57.jpg
+Script started
+Upload dir: C:\xampp\htdocs\employee_monitoring\uploads\ (real: C:\xampp\htdocs\employee_monitoring\uploads) CWD: C:\xampp\htdocs\employee_monitoring
+Folder sudah ada
+Filepath tujuan: C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_06-00-57.jpg
+Mode manual: Menerima gambar via POST
+✅ Diterima gambar JPEG via POST, ukuran: 52374 bytes
+✅ Tersimpan: bytes=52374 exists=yes size=52374 path=C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_06-00-57.jpg
+Isi folder uploads (max 10): capture_2025-08-20_06-00-57.jpg, latest.jpg (total=2)
+DB insert ok id=465 file=capture_2025-08-20_06-00-57.jpg
+✅ Upload sukses via POST: capture_2025-08-20_06-00-57.jpg
+Script started
+Upload dir: C:\xampp\htdocs\employee_monitoring\uploads\ (real: C:\xampp\htdocs\employee_monitoring\uploads) CWD: C:\xampp\htdocs\employee_monitoring
+Folder sudah ada
+Filepath tujuan: C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_06-02-22.jpg
+Mulai parallel fetch...
+✅ Tersimpan: bytes=53262 exists=yes size=53262 path=C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_06-02-22.jpg
+Isi folder uploads (max 10): capture_2025-08-20_06-02-22.jpg, latest.jpg (total=2)
+DB insert ok id=466 file=capture_2025-08-20_06-02-22.jpg
+✅ Capture sukses dari http://10.39.183.57/capture?_cb=1755662542: capture_2025-08-20_06-02-22.jpg
+Script started
+Upload dir: C:\xampp\htdocs\employee_monitoring\uploads\ (real: C:\xampp\htdocs\employee_monitoring\uploads) CWD: C:\xampp\htdocs\employee_monitoring
+Folder sudah ada
+Filepath tujuan: C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_06-02-58.jpg
+Mode manual: Menerima gambar via POST
+✅ Diterima gambar JPEG via POST, ukuran: 52822 bytes
+✅ Tersimpan: bytes=52822 exists=yes size=52822 path=C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_06-02-58.jpg
+Isi folder uploads (max 10): capture_2025-08-20_06-02-58.jpg, latest.jpg (total=2)
+DB insert ok id=467 file=capture_2025-08-20_06-02-58.jpg
+✅ Upload sukses via POST: capture_2025-08-20_06-02-58.jpg
+Script started
+Upload dir: C:\xampp\htdocs\employee_monitoring\uploads\ (real: C:\xampp\htdocs\employee_monitoring\uploads) CWD: C:\xampp\htdocs\employee_monitoring
+Folder sudah ada
+Filepath tujuan: C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_06-04-57.jpg
+Mode manual: Menerima gambar via POST
+✅ Diterima gambar JPEG via POST, ukuran: 51398 bytes
+✅ Tersimpan: bytes=51398 exists=yes size=51398 path=C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_06-04-57.jpg
+Isi folder uploads (max 10): capture_2025-08-20_06-04-57.jpg, latest.jpg (total=2)
+DB insert ok id=468 file=capture_2025-08-20_06-04-57.jpg
+✅ Upload sukses via POST: capture_2025-08-20_06-04-57.jpg
+Script started
+Upload dir: C:\xampp\htdocs\employee_monitoring\uploads\ (real: C:\xampp\htdocs\employee_monitoring\uploads) CWD: C:\xampp\htdocs\employee_monitoring
+Folder sudah ada
+Filepath tujuan: C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_06-06-57.jpg
+Mode manual: Menerima gambar via POST
+✅ Diterima gambar JPEG via POST, ukuran: 49150 bytes
+✅ Tersimpan: bytes=49150 exists=yes size=49150 path=C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_06-06-57.jpg
+Isi folder uploads (max 10): capture_2025-08-20_06-06-57.jpg, latest.jpg (total=2)
+DB insert ok id=469 file=capture_2025-08-20_06-06-57.jpg
+✅ Upload sukses via POST: capture_2025-08-20_06-06-57.jpg
+Script started
+Upload dir: C:\xampp\htdocs\employee_monitoring\uploads\ (real: C:\xampp\htdocs\employee_monitoring\uploads) CWD: C:\xampp\htdocs\employee_monitoring
+Folder sudah ada
+Filepath tujuan: C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_06-08-57.jpg
+Mode manual: Menerima gambar via POST
+✅ Diterima gambar JPEG via POST, ukuran: 49928 bytes
+✅ Tersimpan: bytes=49928 exists=yes size=49928 path=C:\xampp\htdocs\employee_monitoring\uploads\capture_2025-08-20_06-08-57.jpg
+Isi folder uploads (max 10): capture_2025-08-20_06-08-57.jpg, latest.jpg (total=2)
+DB insert ok id=470 file=capture_2025-08-20_06-08-57.jpg
+✅ Upload sukses via POST: capture_2025-08-20_06-08-57.jpg
